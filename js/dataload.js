@@ -61,7 +61,6 @@ $(document).ready(function() {
       var contracts = data.contracts.sort(function(a, b) { return compareStrings(a.symbol, b.symbol)});
 
       var singleTokens = document.getElementsByClassName('tt-token');
-      var singleToken = document.getElementById('token');
   
       for (var i = 0; i < contracts.length; i++) {
           var contract = data.contracts[i];
@@ -97,18 +96,6 @@ $(document).ready(function() {
                 </div>
             </div>
           </div>`
-
-          if (singleToken != undefined)
-          {
-            var tokenfq = singleToken.innerHTML.split(':');
-            var add = tokenfq[0];
-            var id = tokenfq[1];
-
-            if (add == contract.tokenAddress && id == contract.tokenId)
-            {
-                singleToken.innerHTML = content;
-            }
-          }
 
           if (singleTokens != undefined)
           {
