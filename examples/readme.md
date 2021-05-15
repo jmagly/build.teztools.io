@@ -1,3 +1,3 @@
-# teztools.io - Price Feed Example
+# teztools.io examples
 
-index.html - primary example, shows how to use top level teztools.io scripts in any way page to allow droppable blockchain data components. 
+each folder contains an example usage for a teztools data feed. 
