@@ -1,0 +1,350 @@
+{
+  "contracts": [
+    {
+      "symbol": "T10X",
+      "tokenAddress": "KT1M2JnD1wsg7w2B4UXJXtKQPuDUpU2L7cJH",
+      "tokenId": 79,
+      "websiteLink": "https://www.tezos10x.win/",
+      "telegramLink": "https://t.me/Tezos10x",
+      "twitterLink": "",
+      "discordLink": ""
+    },
+    {
+      "symbol": "wWBTC",
+      "tokenAddress": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
+      "tokenId": 19,
+      "websiteLink": "https://app.tzwrap.com/",
+      "telegramLink": "https://t.me/benderlabs",
+      "twitterLink": "https://twitter.com/BenderLabs_",
+      "discordLink": ""
+    },
+    {
+      "symbol": "Bezos",
+      "tokenAddress": "KT1J4m9nxZQSKDwRNahAL1fziuwW9o5hb8Tb",
+      "tokenId": 0,
+      "websiteLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/WeBezos",
+      "discordLink": ""
+    },
+    {
+      "symbol": "wUSDT",
+      "tokenAddress": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
+      "tokenId": 18,
+      "websiteLink": "https://app.tzwrap.com/",
+      "telegramLink": "https://t.me/benderlabs",
+      "twitterLink": "https://twitter.com/BenderLabs_",
+      "discordLink": ""
+    },
+    {
+      "symbol": "CRUNCH",
+      "tokenAddress": "KT1BHCumksALJQJ8q8to2EPigPW6qpyTr7Ng",
+      "tokenId": 0,
+      "websiteLink": "https://crunchy.network/",
+      "telegramLink": "https://t.me/Tezos10x",
+      "twitterLink": "https://twitter.com/CrunchyTez",
+      "discordLink": ""
+    },
+    {
+      "symbol": "WEED",
+      "tokenAddress": "KT1KEsRsSMvSkgZ9CwYy5fPA1e4j3TEpuiKK",
+      "tokenId": 0,
+      "websiteLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/tezos_weed",
+      "discordLink": ""
+    },
+    {
+      "symbol": "BISA",
+      "tokenAddress": "KT1BRXzrMA8qHp9RkZmftV1YLCTdNrEXXBvu",
+      "tokenId": 0,
+      "websiteLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": ""
+
+    },
+    {
+      "symbol": "wPAX",
+      "tokenAddress": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
+      "tokenId": 14,
+      "websiteLink": "https://app.tzwrap.com/",
+      "telegramLink": "https://t.me/benderlabs",
+      "twitterLink": "https://twitter.com/BenderLabs_",
+      "discordLink": ""
+    },
+    {
+      "symbol": "tDAO",
+      "tokenAddress": "KT1Cjx8hYwzaCAke6rLWoZBLp8w89VeAduAR",
+      "tokenId": 0,
+      "websiteLink": "https://tezonians.space/",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/tezonians",
+      "discordLink": ""
+
+    },
+    {
+      "symbol": "wLINK",
+      "tokenAddress": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
+      "tokenId": 10,
+      "websiteLink": "https://app.tzwrap.com/",
+      "telegramLink": "https://t.me/benderlabs",
+      "twitterLink": "https://twitter.com/BenderLabs_",
+      "discordLink": ""
+    },
+    {
+      "symbol": "CVZA",
+      "tokenAddress": "KT1BCzAq3PrTKPsEBKuoTGZdwX6rN6WE8rJj",
+      "tokenId": 0,
+      "websiteLink": "https://www.freibier.io/",
+      "telegramLink": "https://t.me/cervezabrewery",
+      "twitterLink": "https://twitter.com/brewsomecerveza",
+      "discordLink": ""
+
+    },
+    {
+      "symbol": "wSUSHI",
+      "tokenAddress": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
+      "tokenId": 15,
+      "websiteLink": "https://app.tzwrap.com/",
+      "telegramLink": "https://t.me/benderlabs",
+      "twitterLink": "https://twitter.com/BenderLabs_",
+      "discordLink": ""
+    },
+    {
+      "symbol": "NOLA",
+      "tokenAddress": "KT1SrP7phqe9meFbMF4Z2YsSq3XuLU1mw9BM",
+      "tokenId": 0,
+      "websiteLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/jmgranola",
+      "discordLink": ""
+
+    },
+    {
+      "symbol": "BART",
+      "tokenAddress": "KT1T3Ly4RkMehwNpC4iWr86EV5D155bTRvce",
+      "tokenId": 0,
+      "websiteLink": "https://bullishart.com/",
+      "telegramLink": "https://t.me/bullishart",
+      "twitterLink": "https://twitter.com/bullish_art",
+      "discordLink": ""
+
+    },
+    {
+      "symbol": "SOIL",
+      "tokenAddress": "KT1TtaMcoSx5cZrvaVBWsFoeZ1L15cxo5AEy",
+      "tokenId": 0,
+      "websiteLink": "https://farmsoil.xyz/",
+      "telegramLink": "https://t.me/joinchat/oqZreHej77VlNjUx",
+      "twitterLink": "https://twitter.com/farmsomesoil",
+      "discordLink": ""
+
+    },
+    {
+      "symbol": "tCow",
+      "tokenAddress": "KT1LVnyY5cSCVpFMGXzqVsWNiSkJYA8w1rZk",
+      "tokenId": 0,
+      "websiteLink": "",
+      "telegramLink": "https://t.me/tSteaker",
+      "twitterLink": "",
+      "discordLink": ""
+
+    },
+    {
+      "symbol": "TCZ",
+      "tokenAddress": "KT1GGxCNiJ7yaBAH4hAw5AHXbP3PSmAiy3wK",
+      "tokenId": 0,
+      "websiteLink": "https://tacoz.cash/",
+      "telegramLink": "https://t.me/tacozcash",
+      "twitterLink": "https://twitter.com/tacozcash",
+      "discordLink": ""
+
+    },
+    {
+      "symbol": "hDAO",
+      "tokenAddress": "KT1AFA2mwNUMNd4SsujE1YYp29vd8BZejyKW",
+      "tokenId": 0,
+      "websiteLink": "https://www.hicetnunc.xyz/",
+      "telegramLink": "https://t.me/hdaochat",
+      "twitterLink": "https://twitter.com/hicetnunc2000",
+      "discordLink": ""
+
+    },
+    {
+      "symbol": "sDAO",
+      "tokenAddress": "KT19ovJhcsUn4YU8Q5L3BGovKSixfbWcecEA",
+      "tokenId": 1,
+      "websiteLink": "https://salsadao.xyz/#/",
+      "telegramLink": "https://t.me/salsadao",
+      "twitterLink": "https://twitter.com/GeniusContracts",
+      "discordLink": ""
+
+    },
+    {
+      "symbol": "USDS",
+      "tokenAddress": "KT1REEb5VxWRjcHm5GzDMwErMmNFftsE5Gpf",
+      "tokenId": 0,
+      "websiteLink": "https://www.stably.io/",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": ""
+
+    },
+    {
+      "symbol": "RSAL",
+      "tokenAddress": "KT19ovJhcsUn4YU8Q5L3BGovKSixfbWcecEA",
+      "tokenId": 0,
+      "websiteLink": "https://salsadao.xyz/#/",
+      "telegramLink": "https://t.me/salsadao",
+      "twitterLink": "https://twitter.com/GeniusContracts",
+      "discordLink": ""
+    },
+    {
+      "symbol": "bDAO",
+      "tokenAddress": "KT1GUNKmkrgtMQjJp3XxcmCj6HZBhkUmMbge",
+      "tokenId": 0,
+      "websiteLink": "https://bazaarnft.xyz/",
+      "telegramLink": "https://t.me/BazaarCommunity",
+      "twitterLink": "https://twitter.com/BazaarNfts",
+      "discordLink": ""
+
+    },
+    {
+      "symbol": "GUTS",
+      "tokenAddress": "KT1Nbc9cmx19qFrYYFpkiDoojVYL8UZJYVcj",
+      "tokenId": 0,
+      "websiteLink": "https://gutstoken.com/",
+      "telegramLink": "https://t.me/gutsgaming",
+      "twitterLink": "https://twitter.com/xtz_guts",
+      "discordLink": ""
+
+    },
+    {
+      "symbol": "WRAP",
+      "tokenAddress": "KT1LRboPna9yQY9BrjtQYDS1DVxhKESK4VVd",
+      "tokenId": 0,
+      "websiteLink": "https://app.tzwrap.com/",
+      "telegramLink": "https://t.me/benderlabs",
+      "twitterLink": "https://twitter.com/BenderLabs_",
+      "discordLink": ""
+    },
+    {
+      "symbol": "wUSDC",
+      "tokenAddress": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
+      "tokenId": 17,
+      "websiteLink": "https://app.tzwrap.com/",
+      "telegramLink": "https://t.me/benderlabs",
+      "twitterLink": "https://twitter.com/BenderLabs_",
+      "discordLink": ""
+    },
+    {
+      "symbol": "wWETH",
+      "tokenAddress": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
+      "tokenId": 20,
+      "websiteLink": "https://app.tzwrap.com/",
+      "telegramLink": "https://t.me/benderlabs",
+      "twitterLink": "https://twitter.com/BenderLabs_",
+      "discordLink": ""
+    },
+    {
+      "symbol": "BDoge",
+      "tokenAddress": "KT1EMarewvdmyV42FDgGuhUhTKxrjutQWEBA",
+      "tokenId": 0,
+      "websiteLink": "https://www.tezos10x.win/",
+      "telegramLink": "https://t.me/BULLDogeX",
+      "twitterLink": "https://twitter.com/BULLDogeXTZ",
+      "discordLink": ""
+
+    },
+    {
+      "symbol": "wMATIC",
+      "tokenAddress": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
+      "tokenId": 11,
+      "websiteLink": "https://app.tzwrap.com/",
+      "telegramLink": "https://t.me/benderlabs",
+      "twitterLink": "https://twitter.com/BenderLabs_",
+      "discordLink": ""
+    },
+    {
+      "symbol": "TTT",
+      "tokenAddress": "KT1TsUFkH4pa48wmrGRmFpFW13nxHbP4xEKN",
+      "tokenId": 0,
+      "websiteLink": "",
+      "telegramLink": "https://t.me/tacofoodtruck",
+      "twitterLink": "",
+      "discordLink": ""
+
+    },
+    {
+      "symbol": "SEB",
+      "tokenAddress": "KT1981tPmXh4KrUQKZpQKb55kREX7QGJcF3E",
+      "tokenId": 0,
+      "websiteLink": "https://sebuh.net/",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/Sebuh_com",
+      "discordLink": ""
+
+    },
+    {
+      "symbol": "FLAME",
+      "tokenAddress": "KT1Wa8yqRBpFCusJWgcQyjhRz7hUQAmFxW7j",
+      "tokenId": 0,
+      "websiteLink": "http://spacefarm.xyz",
+      "telegramLink": "https://t.me/FLAMEtokenFarm",
+      "twitterLink": "https://twitter.com/FlameDeFi",
+      "discordLink": ""
+
+    },
+    {
+      "symbol": "tChicken",
+      "tokenAddress": "KT1QoDjTpkG9jmAMwrPCsaRR78xHDcRKydBp",
+      "tokenId": 0,
+      "websiteLink": "",
+      "telegramLink": "https://t.me/tChicken",
+      "twitterLink": "",
+      "discordLink": ""
+    },
+    {
+      "symbol": "GSAL",
+      "tokenAddress": "KT1VHd7ysjnvxEzwtjBAmYAmasvVCfPpSkiG",
+      "tokenId": 0,
+      "websiteLink": "https://salsadao.xyz/#/",
+      "telegramLink": "https://t.me/salsadao",
+      "twitterLink": "https://twitter.com/GeniusContracts",
+      "discordLink": ""
+    },
+    {
+      "symbol": "wAAVE",
+      "tokenAddress": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
+      "tokenId": 0,
+      "websiteLink": "https://app.tzwrap.com/",
+      "telegramLink": "https://t.me/benderlabs",
+      "twitterLink": "https://twitter.com/BenderLabs_",
+      "discordLink": ""
+    },
+    {
+      "symbol": "wBUSD",
+      "tokenAddress": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
+      "tokenId": 1,
+      "websiteLink": "https://app.tzwrap.com/",
+      "telegramLink": "https://t.me/benderlabs",
+      "twitterLink": "https://twitter.com/BenderLabs_",
+      "discordLink": ""
+    },
+    {
+      "symbol": "wUNI",
+      "tokenAddress": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
+      "tokenId": 16,
+      "websiteLink": "https://app.tzwrap.com/",
+      "telegramLink": "https://t.me/benderlabs",
+      "twitterLink": "https://twitter.com/BenderLabs_",
+      "discordLink": ""
+    }
+  ],
+  "updated": "2021-05-14T10:11:20.171Z",
+  "block": "BLFxPQj8BFsd9vmtzp37QcvirzrAyewt1cf4s6yikBbLE72HTkP",
+  "lastBlock": "BKkW7xiU6k4mxJ6EuPaAVkjnPezouKm9RdTvjPMMtS5HYSPA1SU",
+  "lastBlockTime": "2021-05-14T10:11:20.171Z",
+  "sharedSecret": "FADese9QXF9CK3h54YQw4YdbuTjVL7EGr464b5WfW5LbUMaKSt5ZDEyhhyyXnt2b"
+}
