@@ -506,10 +506,5 @@
       "twitterLink": "https://twitter.com/BenderLabs_",
       "discordLink": ""
     }
-  ],
-  "updated": "2021-05-14T10:11:20.171Z",
-  "block": "BLFxPQj8BFsd9vmtzp37QcvirzrAyewt1cf4s6yikBbLE72HTkP",
-  "lastBlock": "BKkW7xiU6k4mxJ6EuPaAVkjnPezouKm9RdTvjPMMtS5HYSPA1SU",
-  "lastBlockTime": "2021-05-14T10:11:20.171Z",
-  "sharedSecret": "FADese9QXF9CK3h54YQw4YdbuTjVL7EGr464b5WfW5LbUMaKSt5ZDEyhhyyXnt2b"
+  ]
 }
