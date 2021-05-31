@@ -505,6 +505,14 @@
       "telegramLink": "https://t.me/benderlabs",
       "twitterLink": "https://twitter.com/BenderLabs_",
       "discordLink": ""
+    },
+	{
+      "symbol": "SHTz",
+      "tokenAddress": "KT19oivKN2qzeWgCs886BbttSVYtkcJHRtuQ",
+      "tokenId": 0,
+      "name": "Shitz",
+      "shouldPreferSymbol": "true",
+      "thumbnailUri": "https://teztools.io/images/token/shitz.png",
     }
   ]
 }

@@ -16,7 +16,7 @@ $(document).ready(function() {
       };
   
       const getData = async () => {
-        fetch('https://api.teztools.io/token/prices.json')
+        fetch('https://bapi.teztools.io/token/prices.json')
         .then(function (response) {
           return response.json();
         })
@@ -122,12 +122,16 @@ $(document).ready(function() {
       var blockData = document.getElementById('blockdata');
       blockData.innerHTML = '';
       var div = document.createElement('span');
-      var lastBlock = data.lastBlock.substr(data.lastBlock.length - 10)
-  
-      var date = new Date(data.lastBlockTime);
+      var lastBlock = data.block.substr(data.block.length - 10)
+      var date = new Date(data.timestamp);
       div.innerHTML = `...${lastBlock} found at ${date.toLocaleTimeString()}<br/>`;
-  
       blockData.appendChild(div);
+
+      var contractCount = document.getElementById('contractcount');
+      contractCount.innerHTML = '';
+      var s = document.createElement('span');
+      s.innerHTML = `Found ${data.contracts.length} contracts`
+      contractCount.appendChild(s);
     }
   
     window.setTimeout(function () {
