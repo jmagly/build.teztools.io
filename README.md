@@ -14,21 +14,21 @@ No api key is currently needed.
 
 API Reference will simply use <TOKENADDRESS> for simplicity
 
-#General 
-#/token/prices
+# General 
+# /token/prices
 Full price data for all tracked tokens
 
-#/token/prices-live
+# /token/prices-live
 Live price data, only tokens from the latest block
 
-#/token/contracts
+# /token/contracts
 Full list of all tracked token contract data (token and quipu contracts)
 
-#/token/blocks-live
+# /token/blocks-live
 Live block data, only blocks and contracts from latest block
 
-#/token/<TOKENADDRESS>/price
+# /token/<TOKENADDRESS>/price
 individual token price
 
-#/token/<TOKENADDRESS>/contract
+# /token/<TOKENADDRESS>/contract
 individual token contract
