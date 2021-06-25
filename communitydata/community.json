@@ -1,518 +1,517 @@
 {
-  "contracts": [
-    {
-      "symbol": "T10X",
-      "tokenAddress": "KT1M2JnD1wsg7w2B4UXJXtKQPuDUpU2L7cJH",
-      "tokenId": 79,
-      "tags": "Meme",
-      "websiteLink": "https://www.tezos10x.win/",
-      "telegramLink": "https://t.me/Tezos10x",
-      "twitterLink": "",
-      "discordLink": ""
-    },
-    {
-      "symbol": "wXTZ",
-      "tokenAddress": "KT1VYsVfmobT7rsMVivvZ4J8i3bPiqz12NaH",
-      "tokenId": 0,
-      "tags": "WRAP",
-      "websiteLink": "https://www.stakerdao.com/",
-      "telegramLink": "https://t.me/stakercommunity",
-      "twitterLink": "https://twitter.com/stakerdao",
-      "discordLink": "discord.gg/cnuFcv67z2"
-    },
-    {
-      "symbol": "kUSD",
-      "tokenAddress": "KT1K9gCRgaLRFKTErYt1wVxA3Frb9FjasjTV",
-      "tokenId": 0,
-      "tags": "StableCoin",
-      "websiteLink": "https://kolibri.finance/",
-      "telegramLink": "",
-      "twitterLink": "https://twitter.com/hovereng",
-      "discordLink": "https://discord.com/invite/pCKVNTw6Pf"
-    },
-    {
-      "symbol": "tzBTC",
-      "tokenAddress": "KT1PWx2mnDueood7fEmfbBDKx1D9BAnnXitn",
-      "tokenId": 0,
-      "tags": "BTC peg",
-      "websiteLink": "https://tzbtc.io/",
-      "telegramLink": "",
-      "twitterLink": "",
-      "discordLink": ""
-    },
-    {
-      "symbol": "STKR",
-      "tokenAddress": "KT1AEfeckNbdEYwaMKkytBwPJPycz7jdSGea",
-      "tokenId": 0,
-      "tags": "Utility",
-      "websiteLink": "https://www.stakerdao.com/",
-      "telegramLink": "https://t.me/stakercommunity",
-      "twitterLink": "https://twitter.com/stakerdao",
-      "discordLink": "discord.gg/cnuFcv67z2"
-    },
-    {
-      "symbol": "USDtz",
-      "tokenAddress": "KT1LN4LPSqTMS7Sd2CJw4bbDGRkMv2t68Fy9",
-      "tokenId": 0,
-      "tags": "StableCoin",
-      "websiteLink": "https://usdtz.com/",
-      "telegramLink": "",
-      "twitterLink": "https://twitter.com/usdtz",
-      "discordLink": ""
-    },
-    {
-      "symbol": "ETHtz",
-      "tokenAddress": "KT19at7rQUvyjxnZ2fBv7D9zc8rkyG7gAoU8",
-      "tokenId": 0,
-      "tags": "ETH peg",
-      "websiteLink": "https://ethtz.io/",
-      "telegramLink": "https://twitter.com/ETH_Tez",
-      "twitterLink": "",
-      "discordLink": ""
-    },
-    {
-      "symbol": "QLkUSD",
-      "tokenAddress": "KT1AxaBxkFLCUi3f8rdDAAxBKHfzY8LfKDRA",
-      "tokenId": 0,
-      "tags": "DeFi",
-      "websiteLink": "https://kolibri.finance/",
-      "telegramLink": "",
-      "twitterLink": "https://twitter.com/hovereng",
-      "discordLink": "https://discord.com/invite/pCKVNTw6Pf"
-    },
-    {
-      "symbol": "SWAP",
-      "tokenAddress": "KT1Q3oMXVxL12Rz4GCwztu8wXBTfWWAM4r5t",
-      "tokenId": 0,
-      "tags": "DeFi",
-      "websiteLink": "https://tezosswap.com/",
-      "telegramLink": "https://t.me/TezosSwap",
-      "twitterLink": "https://twitter.com/tezosswap",
-      "discordLink": ""
-    },
-    {
-      "symbol": "TSV",
-      "tokenAddress": "KT1B5LL3GRQL3uLbqwy3C8FL8H7CWj74EbnA",
-      "tokenId": 0,
-      "tags": "DeFi",
-      "websiteLink": "https://tezosswap.com/",
-      "telegramLink": "https://t.me/TezosSwap",
-      "twitterLink": "https://twitter.com/tezosswap",
-      "discordLink": ""
-    },
-    {
-      "symbol": "sVote",
-      "tokenAddress": "KT1Qf46j2x37sAN4t2MKRQRVt9gc4FZ5duMs",
-      "tokenId": 0,
-      "tags": "Casino, DeFi",
-      "websiteLink": "https://salsadao.xyz/#/",
-      "telegramLink": "https://t.me/salsadao",
-      "twitterLink": "https://twitter.com/GeniusContracts",
-      "discordLink": ""
-    },
-    {
-      "symbol": "BDVXP",
-      "tokenAddress": "KT1T1PeeRDbsKDYM2nX8JjJ1kkAhHh5FnjgC",
-      "tokenId": 0,
-      "tags": "Meme",
-      "websiteLink": "http://bohnerdyldohvx.com/",
-      "telegramLink": "",
-      "twitterLink": "",
-      "discordLink": ""
-    },
-    {
-      "symbol": "FARM",
-      "tokenAddress": "KT1CnuKyaAuYBAwJf9g5LobtxRZsF2KCD3o6",
-      "tokenId": 0,
-      "tags": "DeFi",
-      "websiteLink": "https://farmsoil.xyz/",
-      "telegramLink": "https://t.me/joinchat/oqZreHej77VlNjUx",
-      "twitterLink": "https://twitter.com/farmsomesoil",
-      "discordLink": ""
-    },
-    {
-      "symbol": "wTaco",
-      "tokenAddress": "KT1WtCq6FuL2kYTK1x7AkmpPjb8wEJZTUwvX",
-      "tokenId": 0,
-      "tags": "Casino, DeFi",
-      "websiteLink": "https://salsadao.xyz/#/",
-      "telegramLink": "https://t.me/salsadao",
-      "twitterLink": "https://twitter.com/GeniusContracts",
-      "discordLink": ""
-    },
-    {
-      "symbol": "wWBTC",
-      "tokenAddress": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
-      "tokenId": 19,
-      "tags": "Wrap",
-      "websiteLink": "https://app.tzwrap.com/",
-      "telegramLink": "https://t.me/benderlabs",
-      "twitterLink": "https://twitter.com/BenderLabs_",
-      "discordLink": ""
-    },
-    {
-      "symbol": "Bezos",
-      "tokenAddress": "KT1J4m9nxZQSKDwRNahAL1fziuwW9o5hb8Tb",
-      "tokenId": 0,
-      "tags": "Meme",
-      "websiteLink": "",
-      "telegramLink": "",
-      "twitterLink": "https://twitter.com/WeBezos",
-      "discordLink": ""
-    },
-    {
-      "symbol": "wUSDT",
-      "tokenAddress": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
-      "tokenId": 18,
-      "tags": "Wrap",
-      "websiteLink": "https://app.tzwrap.com/",
-      "telegramLink": "https://t.me/benderlabs",
-      "twitterLink": "https://twitter.com/BenderLabs_",
-      "discordLink": ""
-    },
-    {
-      "symbol": "CRUNCH",
-      "tokenAddress": "KT1BHCumksALJQJ8q8to2EPigPW6qpyTr7Ng",
-      "tokenId": 0,
-      "tags": "DeFi, Utility",
-      "websiteLink": "https://crunchy.network/",
-      "telegramLink": "https://t.me/crunchy_network",
-      "twitterLink": "https://twitter.com/CrunchyTez",
-      "discordLink": ""
-    },
-    {
-      "symbol": "WEED",
-      "tokenAddress": "KT1KEsRsSMvSkgZ9CwYy5fPA1e4j3TEpuiKK",
-      "tokenId": 0,
-      "tags": "Meme",
-      "websiteLink": "",
-      "telegramLink": "",
-      "thumbnailUri": "ipfs://QmZsAhpKcAypYTUNJ1wytmekM1sMJT1ASb6GURjz4VShTR",
-      "twitterLink": "https://twitter.com/tezos_weed",
-      "discordLink": ""
-    },
-    {
-      "symbol": "BISA",
-      "tokenAddress": "KT1BRXzrMA8qHp9RkZmftV1YLCTdNrEXXBvu",
-      "tokenId": 0,
-      "tags": "",
-      "websiteLink": "",
-      "telegramLink": "",
-      "twitterLink": "",
-      "discordLink": ""
+	"contracts": [{
+			"symbol": "T10X",
+			"tokenAddress": "KT1M2JnD1wsg7w2B4UXJXtKQPuDUpU2L7cJH",
+			"tokenId": 79,
+			"tags": "Meme",
+			"websiteLink": "https://www.tezos10x.win/",
+			"telegramLink": "https://t.me/Tezos10x",
+			"twitterLink": "",
+			"discordLink": ""
+		},
+		{
+			"symbol": "wXTZ",
+			"tokenAddress": "KT1VYsVfmobT7rsMVivvZ4J8i3bPiqz12NaH",
+			"tokenId": 0,
+			"tags": "WRAP",
+			"websiteLink": "https://www.stakerdao.com/",
+			"telegramLink": "https://t.me/stakercommunity",
+			"twitterLink": "https://twitter.com/stakerdao",
+			"discordLink": "discord.gg/cnuFcv67z2"
+		},
+		{
+			"symbol": "kUSD",
+			"tokenAddress": "KT1K9gCRgaLRFKTErYt1wVxA3Frb9FjasjTV",
+			"tokenId": 0,
+			"tags": "StableCoin",
+			"websiteLink": "https://kolibri.finance/",
+			"telegramLink": "",
+			"twitterLink": "https://twitter.com/hovereng",
+			"discordLink": "https://discord.com/invite/pCKVNTw6Pf"
+		},
+		{
+			"symbol": "tzBTC",
+			"tokenAddress": "KT1PWx2mnDueood7fEmfbBDKx1D9BAnnXitn",
+			"tokenId": 0,
+			"tags": "BTC peg",
+			"websiteLink": "https://tzbtc.io/",
+			"telegramLink": "",
+			"twitterLink": "",
+			"discordLink": ""
+		},
+		{
+			"symbol": "STKR",
+			"tokenAddress": "KT1AEfeckNbdEYwaMKkytBwPJPycz7jdSGea",
+			"tokenId": 0,
+			"tags": "Utility",
+			"websiteLink": "https://www.stakerdao.com/",
+			"telegramLink": "https://t.me/stakercommunity",
+			"twitterLink": "https://twitter.com/stakerdao",
+			"discordLink": "discord.gg/cnuFcv67z2"
+		},
+		{
+			"symbol": "USDtz",
+			"tokenAddress": "KT1LN4LPSqTMS7Sd2CJw4bbDGRkMv2t68Fy9",
+			"tokenId": 0,
+			"tags": "StableCoin",
+			"websiteLink": "https://usdtz.com/",
+			"telegramLink": "",
+			"twitterLink": "https://twitter.com/usdtz",
+			"discordLink": ""
+		},
+		{
+			"symbol": "ETHtz",
+			"tokenAddress": "KT19at7rQUvyjxnZ2fBv7D9zc8rkyG7gAoU8",
+			"tokenId": 0,
+			"tags": "ETH peg",
+			"websiteLink": "https://ethtz.io/",
+			"telegramLink": "https://twitter.com/ETH_Tez",
+			"twitterLink": "",
+			"discordLink": ""
+		},
+		{
+			"symbol": "QLkUSD",
+			"tokenAddress": "KT1AxaBxkFLCUi3f8rdDAAxBKHfzY8LfKDRA",
+			"tokenId": 0,
+			"tags": "DeFi",
+			"websiteLink": "https://kolibri.finance/",
+			"telegramLink": "",
+			"twitterLink": "https://twitter.com/hovereng",
+			"discordLink": "https://discord.com/invite/pCKVNTw6Pf"
+		},
+		{
+			"symbol": "SWAP",
+			"tokenAddress": "KT1Q3oMXVxL12Rz4GCwztu8wXBTfWWAM4r5t",
+			"tokenId": 0,
+			"tags": "DeFi",
+			"websiteLink": "https://tezosswap.com/",
+			"telegramLink": "https://t.me/TezosSwap",
+			"twitterLink": "https://twitter.com/tezosswap",
+			"discordLink": ""
+		},
+		{
+			"symbol": "TSV",
+			"tokenAddress": "KT1B5LL3GRQL3uLbqwy3C8FL8H7CWj74EbnA",
+			"tokenId": 0,
+			"tags": "DeFi",
+			"websiteLink": "https://tezosswap.com/",
+			"telegramLink": "https://t.me/TezosSwap",
+			"twitterLink": "https://twitter.com/tezosswap",
+			"discordLink": ""
+		},
+		{
+			"symbol": "sVote",
+			"tokenAddress": "KT1Qf46j2x37sAN4t2MKRQRVt9gc4FZ5duMs",
+			"tokenId": 0,
+			"tags": "Casino, DeFi",
+			"websiteLink": "https://salsadao.xyz/#/",
+			"telegramLink": "https://t.me/salsadao",
+			"twitterLink": "https://twitter.com/GeniusContracts",
+			"discordLink": ""
+		},
+		{
+			"symbol": "BDVXP",
+			"tokenAddress": "KT1T1PeeRDbsKDYM2nX8JjJ1kkAhHh5FnjgC",
+			"tokenId": 0,
+			"tags": "Meme",
+			"websiteLink": "http://bohnerdyldohvx.com/",
+			"telegramLink": "",
+			"twitterLink": "",
+			"discordLink": ""
+		},
+		{
+			"symbol": "FARM",
+			"tokenAddress": "KT1CnuKyaAuYBAwJf9g5LobtxRZsF2KCD3o6",
+			"tokenId": 0,
+			"tags": "DeFi",
+			"websiteLink": "https://farmsoil.xyz/",
+			"telegramLink": "https://t.me/joinchat/oqZreHej77VlNjUx",
+			"twitterLink": "https://twitter.com/farmsomesoil",
+			"discordLink": ""
+		},
+		{
+			"symbol": "wTaco",
+			"tokenAddress": "KT1WtCq6FuL2kYTK1x7AkmpPjb8wEJZTUwvX",
+			"tokenId": 0,
+			"tags": "Casino, DeFi",
+			"websiteLink": "https://salsadao.xyz/#/",
+			"telegramLink": "https://t.me/salsadao",
+			"twitterLink": "https://twitter.com/GeniusContracts",
+			"discordLink": ""
+		},
+		{
+			"symbol": "wWBTC",
+			"tokenAddress": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
+			"tokenId": 19,
+			"tags": "Wrap",
+			"websiteLink": "https://app.tzwrap.com/",
+			"telegramLink": "https://t.me/benderlabs",
+			"twitterLink": "https://twitter.com/BenderLabs_",
+			"discordLink": ""
+		},
+		{
+			"symbol": "Bezos",
+			"tokenAddress": "KT1J4m9nxZQSKDwRNahAL1fziuwW9o5hb8Tb",
+			"tokenId": 0,
+			"tags": "Meme",
+			"websiteLink": "",
+			"telegramLink": "",
+			"twitterLink": "https://twitter.com/WeBezos",
+			"discordLink": ""
+		},
+		{
+			"symbol": "wUSDT",
+			"tokenAddress": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
+			"tokenId": 18,
+			"tags": "Wrap",
+			"websiteLink": "https://app.tzwrap.com/",
+			"telegramLink": "https://t.me/benderlabs",
+			"twitterLink": "https://twitter.com/BenderLabs_",
+			"discordLink": ""
+		},
+		{
+			"symbol": "CRUNCH",
+			"tokenAddress": "KT1BHCumksALJQJ8q8to2EPigPW6qpyTr7Ng",
+			"tokenId": 0,
+			"tags": "DeFi, Utility",
+			"websiteLink": "https://crunchy.network/",
+			"telegramLink": "https://t.me/crunchy_network",
+			"twitterLink": "https://twitter.com/CrunchyTez",
+			"discordLink": ""
+		},
+		{
+			"symbol": "WEED",
+			"tokenAddress": "KT1KEsRsSMvSkgZ9CwYy5fPA1e4j3TEpuiKK",
+			"tokenId": 0,
+			"tags": "Meme",
+			"websiteLink": "",
+			"telegramLink": "",
+			"thumbnailUri": "ipfs://QmZsAhpKcAypYTUNJ1wytmekM1sMJT1ASb6GURjz4VShTR",
+			"twitterLink": "https://twitter.com/tezos_weed",
+			"discordLink": ""
+		},
+		{
+			"symbol": "BISA",
+			"tokenAddress": "KT1BRXzrMA8qHp9RkZmftV1YLCTdNrEXXBvu",
+			"tokenId": 0,
+			"tags": "",
+			"websiteLink": "",
+			"telegramLink": "",
+			"twitterLink": "",
+			"discordLink": ""
 
-    },
-    {
-      "symbol": "wPAX",
-      "tokenAddress": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
-      "tokenId": 14,
-      "tags": "Wrap",
-      "websiteLink": "https://app.tzwrap.com/",
-      "telegramLink": "https://t.me/benderlabs",
-      "twitterLink": "https://twitter.com/BenderLabs_",
-      "discordLink": ""
-    },
-    {
-      "symbol": "tDAO",
-      "tokenAddress": "KT1Cjx8hYwzaCAke6rLWoZBLp8w89VeAduAR",
-      "tokenId": 0,
-      "tags": "NFT",
-      "websiteLink": "https://tezonians.space/",
-      "telegramLink": "",
-      "twitterLink": "https://twitter.com/tezonians",
-      "discordLink": ""
+		},
+		{
+			"symbol": "wPAX",
+			"tokenAddress": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
+			"tokenId": 14,
+			"tags": "Wrap",
+			"websiteLink": "https://app.tzwrap.com/",
+			"telegramLink": "https://t.me/benderlabs",
+			"twitterLink": "https://twitter.com/BenderLabs_",
+			"discordLink": ""
+		},
+		{
+			"symbol": "tDAO",
+			"tokenAddress": "KT1Cjx8hYwzaCAke6rLWoZBLp8w89VeAduAR",
+			"tokenId": 0,
+			"tags": "NFT",
+			"websiteLink": "https://tezonians.space/",
+			"telegramLink": "",
+			"twitterLink": "https://twitter.com/tezonians",
+			"discordLink": ""
 
-    },
-    {
-      "symbol": "wLINK",
-      "tokenAddress": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
-      "tokenId": 10,
-      "tags": "Wrap",
-      "websiteLink": "https://app.tzwrap.com/",
-      "telegramLink": "https://t.me/benderlabs",
-      "twitterLink": "https://twitter.com/BenderLabs_",
-      "discordLink": ""
-    },
-    {
-      "symbol": "CVZA",
-      "tokenAddress": "KT1BCzAq3PrTKPsEBKuoTGZdwX6rN6WE8rJj",
-      "tokenId": 0,
-      "tags": "Utility",
-      "websiteLink": "https://www.freibier.io/",
-      "telegramLink": "https://t.me/cervezabrewery",
-      "twitterLink": "https://twitter.com/brewsomecerveza",
-      "discordLink": "https://discord.gg/693GtVyP7E"
+		},
+		{
+			"symbol": "wLINK",
+			"tokenAddress": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
+			"tokenId": 10,
+			"tags": "Wrap",
+			"websiteLink": "https://app.tzwrap.com/",
+			"telegramLink": "https://t.me/benderlabs",
+			"twitterLink": "https://twitter.com/BenderLabs_",
+			"discordLink": ""
+		},
+		{
+			"symbol": "CVZA",
+			"tokenAddress": "KT1BCzAq3PrTKPsEBKuoTGZdwX6rN6WE8rJj",
+			"tokenId": 0,
+			"tags": "Utility",
+			"websiteLink": "https://www.freibier.io/",
+			"telegramLink": "https://t.me/cervezabrewery",
+			"twitterLink": "https://twitter.com/brewsomecerveza",
+			"discordLink": "https://discord.gg/693GtVyP7E"
 
-    },
-    {
-      "symbol": "wSUSHI",
-      "tokenAddress": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
-      "tokenId": 15,
-      "tags": "Wrap",
-      "websiteLink": "https://app.tzwrap.com/",
-      "telegramLink": "https://t.me/benderlabs",
-      "twitterLink": "https://twitter.com/BenderLabs_",
-      "discordLink": ""
-    },
-    {
-      "symbol": "NOLA",
-      "tokenAddress": "KT1SrP7phqe9meFbMF4Z2YsSq3XuLU1mw9BM",
-      "tokenId": 0,
-      "tags": "Meme",
-      "websiteLink": "",
-      "telegramLink": "",
-      "twitterLink": "https://twitter.com/jmgranola",
-      "discordLink": ""
+		},
+		{
+			"symbol": "wSUSHI",
+			"tokenAddress": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
+			"tokenId": 15,
+			"tags": "Wrap",
+			"websiteLink": "https://app.tzwrap.com/",
+			"telegramLink": "https://t.me/benderlabs",
+			"twitterLink": "https://twitter.com/BenderLabs_",
+			"discordLink": ""
+		},
+		{
+			"symbol": "NOLA",
+			"tokenAddress": "KT1SrP7phqe9meFbMF4Z2YsSq3XuLU1mw9BM",
+			"tokenId": 0,
+			"tags": "Meme",
+			"websiteLink": "",
+			"telegramLink": "",
+			"twitterLink": "https://twitter.com/jmgranola",
+			"discordLink": ""
 
-    },
-    {
-      "symbol": "BART",
-      "tokenAddress": "KT1T3Ly4RkMehwNpC4iWr86EV5D155bTRvce",
-      "tokenId": 0,
-      "tags": "NFT",
-      "websiteLink": "https://bullishart.com/",
-      "telegramLink": "https://t.me/bullishart",
-      "twitterLink": "https://twitter.com/bullish_art",
-      "discordLink": ""
+		},
+		{
+			"symbol": "BART",
+			"tokenAddress": "KT1T3Ly4RkMehwNpC4iWr86EV5D155bTRvce",
+			"tokenId": 0,
+			"tags": "NFT",
+			"websiteLink": "https://bullishart.com/",
+			"telegramLink": "https://t.me/bullishart",
+			"twitterLink": "https://twitter.com/bullish_art",
+			"discordLink": ""
 
-    },
-    {
-      "symbol": "SOIL",
-      "tokenAddress": "KT1TtaMcoSx5cZrvaVBWsFoeZ1L15cxo5AEy",
-      "tokenId": 0,
-      "tags": "DeFi",
-      "websiteLink": "https://farmsoil.xyz/",
-      "telegramLink": "https://t.me/joinchat/oqZreHej77VlNjUx",
-      "twitterLink": "https://twitter.com/farmsomesoil",
-      "discordLink": ""
+		},
+		{
+			"symbol": "SOIL",
+			"tokenAddress": "KT1TtaMcoSx5cZrvaVBWsFoeZ1L15cxo5AEy",
+			"tokenId": 0,
+			"tags": "DeFi",
+			"websiteLink": "https://farmsoil.xyz/",
+			"telegramLink": "https://t.me/joinchat/oqZreHej77VlNjUx",
+			"twitterLink": "https://twitter.com/farmsomesoil",
+			"discordLink": ""
 
-    },
-    {
-      "symbol": "tCow",
-      "tokenAddress": "KT1LVnyY5cSCVpFMGXzqVsWNiSkJYA8w1rZk",
-      "tokenId": 0,
-      "tags": "Meme",
-      "websiteLink": "",
-      "telegramLink": "https://t.me/tSteaker",
-      "twitterLink": "",
-      "discordLink": ""
+		},
+		{
+			"symbol": "tCow",
+			"tokenAddress": "KT1LVnyY5cSCVpFMGXzqVsWNiSkJYA8w1rZk",
+			"tokenId": 0,
+			"tags": "Meme",
+			"websiteLink": "",
+			"telegramLink": "https://t.me/tSteaker",
+			"twitterLink": "",
+			"discordLink": ""
 
-    },
-    {
-      "symbol": "TCZ",
-      "tokenAddress": "KT1GGxCNiJ7yaBAH4hAw5AHXbP3PSmAiy3wK",
-      "tokenId": 0,
-      "tags": "Meme",
-      "websiteLink": "https://tacoz.cash/",
-      "telegramLink": "https://t.me/tacozcash",
-      "twitterLink": "https://twitter.com/tacozcash",
-      "discordLink": ""
+		},
+		{
+			"symbol": "TCZ",
+			"tokenAddress": "KT1GGxCNiJ7yaBAH4hAw5AHXbP3PSmAiy3wK",
+			"tokenId": 0,
+			"tags": "Meme",
+			"websiteLink": "https://tacoz.cash/",
+			"telegramLink": "https://t.me/tacozcash",
+			"twitterLink": "https://twitter.com/tacozcash",
+			"discordLink": ""
 
-    },
-    {
-      "symbol": "hDAO",
-      "tokenAddress": "KT1AFA2mwNUMNd4SsujE1YYp29vd8BZejyKW",
-      "tokenId": 0,
-      "tags": "NFT",
-      "websiteLink": "https://www.hicetnunc.xyz/",
-      "telegramLink": "https://t.me/hdaochat",
-      "twitterLink": "https://twitter.com/hicetnunc2000",
-      "discordLink": ""
+		},
+		{
+			"symbol": "hDAO",
+			"tokenAddress": "KT1AFA2mwNUMNd4SsujE1YYp29vd8BZejyKW",
+			"tokenId": 0,
+			"tags": "NFT",
+			"websiteLink": "https://www.hicetnunc.xyz/",
+			"telegramLink": "https://t.me/hdaochat",
+			"twitterLink": "https://twitter.com/hicetnunc2000",
+			"discordLink": ""
 
-    },
-    {
-      "symbol": "sDAO",
-      "tokenAddress": "KT19ovJhcsUn4YU8Q5L3BGovKSixfbWcecEA",
-      "tokenId": 1,
-      "tags": "Casino, DeFi",
-      "websiteLink": "https://salsadao.xyz/#/",
-      "telegramLink": "https://t.me/salsadao",
-      "twitterLink": "https://twitter.com/GeniusContracts",
-      "discordLink": ""
-    },
-    {
-      "symbol": "USDS",
-      "tokenAddress": "KT1REEb5VxWRjcHm5GzDMwErMmNFftsE5Gpf",
-      "tokenId": 0,
-      "tags": "StableCoin",
-      "websiteLink": "https://www.stably.io/",
-      "telegramLink": "",
-      "twitterLink": "",
-      "discordLink": ""
-    },
-    {
-      "symbol": "RSAL",
-      "tokenAddress": "KT19ovJhcsUn4YU8Q5L3BGovKSixfbWcecEA",
-      "tokenId": 0,
-      "tags": "Casino, DeFi",
-      "websiteLink": "https://salsadao.xyz/#/",
-      "telegramLink": "https://t.me/salsadao",
-      "twitterLink": "https://twitter.com/GeniusContracts",
-      "discordLink": ""
-    },
-    {
-      "symbol": "bDAO",
-      "tokenAddress": "KT1GUNKmkrgtMQjJp3XxcmCj6HZBhkUmMbge",
-      "tokenId": 0,
-      "tags": "NFT",
-      "websiteLink": "https://bazaarnft.xyz/",
-      "telegramLink": "https://t.me/BazaarCommunity",
-      "twitterLink": "https://twitter.com/BazaarNfts",
-      "discordLink": ""
-    },
-    {
-      "symbol": "GUTS",
-      "tokenAddress": "KT1Nbc9cmx19qFrYYFpkiDoojVYL8UZJYVcj",
-      "tokenId": 0,
-      "tags": "Game",
-      "websiteLink": "https://gutstoken.com/",
-      "telegramLink": "https://t.me/gutsgaming",
-      "twitterLink": "https://twitter.com/xtz_guts",
-      "discordLink": ""
-    },
-    {
-      "symbol": "WRAP",
-      "tokenAddress": "KT1LRboPna9yQY9BrjtQYDS1DVxhKESK4VVd",
-      "tokenId": 0,
-      "tags": "Wrap",
-      "websiteLink": "https://app.tzwrap.com/",
-      "telegramLink": "https://t.me/benderlabs",
-      "twitterLink": "https://twitter.com/BenderLabs_",
-      "discordLink": ""
-    },
-    {
-      "symbol": "wUSDC",
-      "tokenAddress": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
-      "tokenId": 17,
-      "tags": "Wrap",
-      "websiteLink": "https://app.tzwrap.com/",
-      "telegramLink": "https://t.me/benderlabs",
-      "twitterLink": "https://twitter.com/BenderLabs_",
-      "discordLink": ""
-    },
-    {
-      "symbol": "wWETH",
-      "tokenAddress": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
-      "tokenId": 20,
-      "tags": "Wrap",
-      "websiteLink": "https://app.tzwrap.com/",
-      "telegramLink": "https://t.me/benderlabs",
-      "twitterLink": "https://twitter.com/BenderLabs_",
-      "discordLink": ""
-    },
-    {
-      "symbol": "BDoge",
-      "tokenAddress": "KT1EMarewvdmyV42FDgGuhUhTKxrjutQWEBA",
-      "tokenId": 0,
-      "tags": "Meme",
-      "websiteLink": "https://www.tezos10x.win/",
-      "telegramLink": "https://t.me/BULLDogeX",
-      "twitterLink": "https://twitter.com/BULLDogeXTZ",
-      "discordLink": ""
+		},
+		{
+			"symbol": "sDAO",
+			"tokenAddress": "KT19ovJhcsUn4YU8Q5L3BGovKSixfbWcecEA",
+			"tokenId": 1,
+			"tags": "Casino, DeFi",
+			"websiteLink": "https://salsadao.xyz/#/",
+			"telegramLink": "https://t.me/salsadao",
+			"twitterLink": "https://twitter.com/GeniusContracts",
+			"discordLink": ""
+		},
+		{
+			"symbol": "USDS",
+			"tokenAddress": "KT1REEb5VxWRjcHm5GzDMwErMmNFftsE5Gpf",
+			"tokenId": 0,
+			"tags": "StableCoin",
+			"websiteLink": "https://www.stably.io/",
+			"telegramLink": "",
+			"twitterLink": "",
+			"discordLink": ""
+		},
+		{
+			"symbol": "RSAL",
+			"tokenAddress": "KT19ovJhcsUn4YU8Q5L3BGovKSixfbWcecEA",
+			"tokenId": 0,
+			"tags": "Casino, DeFi",
+			"websiteLink": "https://salsadao.xyz/#/",
+			"telegramLink": "https://t.me/salsadao",
+			"twitterLink": "https://twitter.com/GeniusContracts",
+			"discordLink": ""
+		},
+		{
+			"symbol": "bDAO",
+			"tokenAddress": "KT1GUNKmkrgtMQjJp3XxcmCj6HZBhkUmMbge",
+			"tokenId": 0,
+			"tags": "NFT",
+			"websiteLink": "https://bazaarnft.xyz/",
+			"telegramLink": "https://t.me/BazaarCommunity",
+			"twitterLink": "https://twitter.com/BazaarNfts",
+			"discordLink": ""
+		},
+		{
+			"symbol": "GUTS",
+			"tokenAddress": "KT1Nbc9cmx19qFrYYFpkiDoojVYL8UZJYVcj",
+			"tokenId": 0,
+			"tags": "Game",
+			"websiteLink": "https://gutstoken.com/",
+			"telegramLink": "https://t.me/gutsgaming",
+			"twitterLink": "https://twitter.com/xtz_guts",
+			"discordLink": ""
+		},
+		{
+			"symbol": "WRAP",
+			"tokenAddress": "KT1LRboPna9yQY9BrjtQYDS1DVxhKESK4VVd",
+			"tokenId": 0,
+			"tags": "Wrap",
+			"websiteLink": "https://app.tzwrap.com/",
+			"telegramLink": "https://t.me/benderlabs",
+			"twitterLink": "https://twitter.com/BenderLabs_",
+			"discordLink": ""
+		},
+		{
+			"symbol": "wUSDC",
+			"tokenAddress": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
+			"tokenId": 17,
+			"tags": "Wrap",
+			"websiteLink": "https://app.tzwrap.com/",
+			"telegramLink": "https://t.me/benderlabs",
+			"twitterLink": "https://twitter.com/BenderLabs_",
+			"discordLink": ""
+		},
+		{
+			"symbol": "wWETH",
+			"tokenAddress": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
+			"tokenId": 20,
+			"tags": "Wrap",
+			"websiteLink": "https://app.tzwrap.com/",
+			"telegramLink": "https://t.me/benderlabs",
+			"twitterLink": "https://twitter.com/BenderLabs_",
+			"discordLink": ""
+		},
+		{
+			"symbol": "BDoge",
+			"tokenAddress": "KT1EMarewvdmyV42FDgGuhUhTKxrjutQWEBA",
+			"tokenId": 0,
+			"tags": "Meme",
+			"websiteLink": "https://www.tezos10x.win/",
+			"telegramLink": "https://t.me/BULLDogeX",
+			"twitterLink": "https://twitter.com/BULLDogeXTZ",
+			"discordLink": ""
 
-    },
-    {
-      "symbol": "wMATIC",
-      "tokenAddress": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
-      "tokenId": 11,
-      "tags": "Wrap",
-      "websiteLink": "https://app.tzwrap.com/",
-      "telegramLink": "https://t.me/benderlabs",
-      "twitterLink": "https://twitter.com/BenderLabs_",
-      "discordLink": ""
-    },
-    {
-      "symbol": "TTT",
-      "tokenAddress": "KT1TsUFkH4pa48wmrGRmFpFW13nxHbP4xEKN",
-      "tokenId": 0,
-      "tags": "Meme",
-      "websiteLink": "",
-      "thumbnailUri": "ipfs://QmehMWo2YC8XVn376MiKU2ZXb3TJAWdPbHAeojkizvP8Sg",
-      "telegramLink": "https://t.me/tacofoodtruck",
-      "twitterLink": "",
-      "discordLink": ""
+		},
+		{
+			"symbol": "wMATIC",
+			"tokenAddress": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
+			"tokenId": 11,
+			"tags": "Wrap",
+			"websiteLink": "https://app.tzwrap.com/",
+			"telegramLink": "https://t.me/benderlabs",
+			"twitterLink": "https://twitter.com/BenderLabs_",
+			"discordLink": ""
+		},
+		{
+			"symbol": "TTT",
+			"tokenAddress": "KT1TsUFkH4pa48wmrGRmFpFW13nxHbP4xEKN",
+			"tokenId": 0,
+			"tags": "Meme",
+			"websiteLink": "",
+			"thumbnailUri": "ipfs://QmehMWo2YC8XVn376MiKU2ZXb3TJAWdPbHAeojkizvP8Sg",
+			"telegramLink": "https://t.me/tacofoodtruck",
+			"twitterLink": "",
+			"discordLink": ""
 
-    },
-    {
-      "symbol": "SEB",
-      "tokenAddress": "KT1981tPmXh4KrUQKZpQKb55kREX7QGJcF3E",
-      "tokenId": 0,
-      "tags": "Meme",
-      "websiteLink": "https://sebuh.net/",
-      "telegramLink": "",
-      "twitterLink": "https://twitter.com/Sebuh_com",
-      "discordLink": ""
+		},
+		{
+			"symbol": "SEB",
+			"tokenAddress": "KT1981tPmXh4KrUQKZpQKb55kREX7QGJcF3E",
+			"tokenId": 0,
+			"tags": "Meme",
+			"websiteLink": "https://sebuh.net/",
+			"telegramLink": "",
+			"twitterLink": "https://twitter.com/Sebuh_com",
+			"discordLink": ""
 
-    },
-    {
-      "symbol": "FLAME",
-      "tokenAddress": "KT1Wa8yqRBpFCusJWgcQyjhRz7hUQAmFxW7j",
-      "tokenId": 0,
-      "tags": "DEX",
-      "websiteLink": "http://spacefarm.xyz",
-      "telegramLink": "https://t.me/FLAMEtokenFarm",
-      "thumbnailUri": "ipfs://QmT6abVwDWZE2XjypJvfDVCRV68DgjDmtFHAQZJrQfa7Lz",
-      "twitterLink": "https://twitter.com/FlameDeFi",
-      "discordLink": ""
+		},
+		{
+			"symbol": "FLAME",
+			"tokenAddress": "KT1Wa8yqRBpFCusJWgcQyjhRz7hUQAmFxW7j",
+			"tokenId": 0,
+			"tags": "DEX",
+			"websiteLink": "http://spacefarm.xyz",
+			"telegramLink": "https://t.me/FLAMEtokenFarm",
+			"thumbnailUri": "ipfs://QmT6abVwDWZE2XjypJvfDVCRV68DgjDmtFHAQZJrQfa7Lz",
+			"twitterLink": "https://twitter.com/FlameDeFi",
+			"discordLink": ""
 
-    },
-    {
-      "symbol": "tChicken",
-      "tokenAddress": "KT1QoDjTpkG9jmAMwrPCsaRR78xHDcRKydBp",
-      "tokenId": 0,
-      "tags": "Meme",
-      "websiteLink": "",
-      "telegramLink": "https://t.me/tChicken",
-      "twitterLink": "",
-      "discordLink": ""
-    },
-    {
-      "symbol": "GSAL",
-      "tokenAddress": "KT1VHd7ysjnvxEzwtjBAmYAmasvVCfPpSkiG",
-      "tokenId": 0,
-      "tags": "Casino, DeFi",
-      "websiteLink": "https://salsadao.xyz/#/",
-      "telegramLink": "https://t.me/salsadao",
-      "twitterLink": "https://twitter.com/GeniusContracts",
-      "discordLink": ""
-    },
-    {
-      "symbol": "wAAVE",
-      "tokenAddress": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
-      "tokenId": 0,
-      "tags": "Wrap",
-      "websiteLink": "https://app.tzwrap.com/",
-      "telegramLink": "https://t.me/benderlabs",
-      "twitterLink": "https://twitter.com/BenderLabs_",
-      "discordLink": ""
-    },
-    {
-      "symbol": "wBUSD",
-      "tokenAddress": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
-      "tokenId": 1,
-      "tags": "Wrap",
-      "websiteLink": "https://app.tzwrap.com/",
-      "telegramLink": "https://t.me/benderlabs",
-      "twitterLink": "https://twitter.com/BenderLabs_",
-      "discordLink": ""
-    },
-    {
-      "symbol": "wUNI",
-      "tokenAddress": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
-      "tokenId": 16,
-      "tags": "Wrap",
-      "websiteLink": "https://app.tzwrap.com/",
-      "telegramLink": "https://t.me/benderlabs",
-      "twitterLink": "https://twitter.com/BenderLabs_",
-      "discordLink": ""
-    },
-	{
-      "symbol": "SHTz",
-      "tokenAddress": "KT19oivKN2qzeWgCs886BbttSVYtkcJHRtuQ",
-      "tokenId": 0,
-      "name": "Shitz",
-      "shouldPreferSymbol": "true",
-      "thumbnailUri": "https://teztools.io/images/token/shitz.png",
-    }
-  ]
+		},
+		{
+			"symbol": "tChicken",
+			"tokenAddress": "KT1QoDjTpkG9jmAMwrPCsaRR78xHDcRKydBp",
+			"tokenId": 0,
+			"tags": "Meme",
+			"websiteLink": "",
+			"telegramLink": "https://t.me/tChicken",
+			"twitterLink": "",
+			"discordLink": ""
+		},
+		{
+			"symbol": "GSAL",
+			"tokenAddress": "KT1VHd7ysjnvxEzwtjBAmYAmasvVCfPpSkiG",
+			"tokenId": 0,
+			"tags": "Casino, DeFi",
+			"websiteLink": "https://salsadao.xyz/#/",
+			"telegramLink": "https://t.me/salsadao",
+			"twitterLink": "https://twitter.com/GeniusContracts",
+			"discordLink": ""
+		},
+		{
+			"symbol": "wAAVE",
+			"tokenAddress": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
+			"tokenId": 0,
+			"tags": "Wrap",
+			"websiteLink": "https://app.tzwrap.com/",
+			"telegramLink": "https://t.me/benderlabs",
+			"twitterLink": "https://twitter.com/BenderLabs_",
+			"discordLink": ""
+		},
+		{
+			"symbol": "wBUSD",
+			"tokenAddress": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
+			"tokenId": 1,
+			"tags": "Wrap",
+			"websiteLink": "https://app.tzwrap.com/",
+			"telegramLink": "https://t.me/benderlabs",
+			"twitterLink": "https://twitter.com/BenderLabs_",
+			"discordLink": ""
+		},
+		{
+			"symbol": "wUNI",
+			"tokenAddress": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
+			"tokenId": 16,
+			"tags": "Wrap",
+			"websiteLink": "https://app.tzwrap.com/",
+			"telegramLink": "https://t.me/benderlabs",
+			"twitterLink": "https://twitter.com/BenderLabs_",
+			"discordLink": ""
+		},
+		{
+			"symbol": "SHTz",
+			"tokenAddress": "KT19oivKN2qzeWgCs886BbttSVYtkcJHRtuQ",
+			"tokenId": 0,
+			"name": "Shitz",
+			"shouldPreferSymbol": "true",
+			"thumbnailUri": "https://teztools.io/images/token/shitz.png"
+		}
+	]
 }
