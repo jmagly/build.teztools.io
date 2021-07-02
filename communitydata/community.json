@@ -12,17 +12,16 @@
 		{
 			"symbol": "wXTZ",
 			"tokenAddress": "KT1VYsVfmobT7rsMVivvZ4J8i3bPiqz12NaH",
-			"tokenId": 0,
 			"tags": "WRAP",
 			"websiteLink": "https://www.stakerdao.com/",
 			"telegramLink": "https://t.me/stakercommunity",
 			"twitterLink": "https://twitter.com/stakerdao",
-			"discordLink": "discord.gg/cnuFcv67z2"
+			"discordLink": "discord.gg/cnuFcv67z2",
+			"thumbnailUri": "https://build.teztools.io/token-logo/wxtz.png"
 		},
 		{
 			"symbol": "kUSD",
 			"tokenAddress": "KT1K9gCRgaLRFKTErYt1wVxA3Frb9FjasjTV",
-			"tokenId": 0,
 			"tags": "StableCoin",
 			"websiteLink": "https://kolibri.finance/",
 			"telegramLink": "",
@@ -32,47 +31,47 @@
 		{
 			"symbol": "tzBTC",
 			"tokenAddress": "KT1PWx2mnDueood7fEmfbBDKx1D9BAnnXitn",
-			"tokenId": 0,
 			"tags": "BTC peg",
 			"websiteLink": "https://tzbtc.io/",
 			"telegramLink": "",
 			"twitterLink": "",
-			"discordLink": ""
+			"discordLink": "",
+			"thumbnailUri": "https://build.teztools.io/token-logo/tzbtc.svg"
 		},
 		{
 			"symbol": "STKR",
 			"tokenAddress": "KT1AEfeckNbdEYwaMKkytBwPJPycz7jdSGea",
-			"tokenId": 0,
 			"tags": "Utility",
 			"websiteLink": "https://www.stakerdao.com/",
 			"telegramLink": "https://t.me/stakercommunity",
 			"twitterLink": "https://twitter.com/stakerdao",
-			"discordLink": "discord.gg/cnuFcv67z2"
+			"discordLink": "discord.gg/cnuFcv67z2",
+			"thumbnailUri": "https://build.teztools.io/token-logo/stkr.png"
 		},
 		{
 			"symbol": "USDtz",
 			"tokenAddress": "KT1LN4LPSqTMS7Sd2CJw4bbDGRkMv2t68Fy9",
-			"tokenId": 0,
 			"tags": "StableCoin",
 			"websiteLink": "https://usdtz.com/",
 			"telegramLink": "",
 			"twitterLink": "https://twitter.com/usdtz",
-			"discordLink": ""
+			"discordLink": "",
+			"thumbnailUri": "https://build.teztools.io/token-logo/usdtz.svg"
+			
 		},
 		{
 			"symbol": "ETHtz",
 			"tokenAddress": "KT19at7rQUvyjxnZ2fBv7D9zc8rkyG7gAoU8",
-			"tokenId": 0,
 			"tags": "ETH peg",
 			"websiteLink": "https://ethtz.io/",
 			"telegramLink": "https://twitter.com/ETH_Tez",
 			"twitterLink": "",
-			"discordLink": ""
+			"discordLink": "",
+			"thumbnailUri": "https://build.teztools.io/token-logo/ethtz_sm.png"
 		},
 		{
 			"symbol": "QLkUSD",
 			"tokenAddress": "KT1AxaBxkFLCUi3f8rdDAAxBKHfzY8LfKDRA",
-			"tokenId": 0,
 			"tags": "DeFi",
 			"websiteLink": "https://kolibri.finance/",
 			"telegramLink": "",
@@ -82,7 +81,6 @@
 		{
 			"symbol": "SWAP",
 			"tokenAddress": "KT1Q3oMXVxL12Rz4GCwztu8wXBTfWWAM4r5t",
-			"tokenId": 0,
 			"tags": "DeFi",
 			"websiteLink": "https://tezosswap.com/",
 			"telegramLink": "https://t.me/TezosSwap",
@@ -92,7 +90,6 @@
 		{
 			"symbol": "TSV",
 			"tokenAddress": "KT1B5LL3GRQL3uLbqwy3C8FL8H7CWj74EbnA",
-			"tokenId": 0,
 			"tags": "DeFi",
 			"websiteLink": "https://tezosswap.com/",
 			"telegramLink": "https://t.me/TezosSwap",
@@ -186,7 +183,7 @@
 			"tags": "Meme",
 			"websiteLink": "",
 			"telegramLink": "",
-			"thumbnailUri": "ipfs://QmZsAhpKcAypYTUNJ1wytmekM1sMJT1ASb6GURjz4VShTR",
+			"thumbnailUri": "https://build.teztools.io/token-logo/weedold_sm.png",
 			"twitterLink": "https://twitter.com/tezos_weed",
 			"discordLink": ""
 		},
@@ -512,6 +509,53 @@
 			"name": "Shitz",
 			"shouldPreferSymbol": "true",
 			"thumbnailUri": "https://teztools.io/images/token/shitz.png"
+		},
+		{
+			"symbol": "fDAO",
+			"tokenAddress": "KT1KPoyzkj82Sbnafm6pfesZKEhyCpXwQfMc",
+			"tokenId": 0,
+			"thumbnailUri": "https://build.teztools.io/token-logo/fdao_sm.png"
+		},
+		{
+			"symbol": "BRR",
+			"tokenAddress": "KT1UHNDNjrCAAiRbzZrtQF9qHSHVMYeJyX1y",
+			"tokenId": 0,
+			"thumbnailUri": "https://build.teztools.io/token-logo/FundMeLogo_sm.png"
+		},
+		{
+			"symbol": "CLEO",
+			"tokenAddress": "KT1VEe2PES4F9nqsgQHdonPsFkTvKXLbbdha",
+			"tokenId": 0,
+			"thumbnailUri": "https://image.freepik.com/free-vector/lucky-cat-design_123847-425.jpg"
+		},
+		{
+			"symbol": "SMAK",
+			"tokenAddress": "KT1TwzD6zV3WeJ39ukuqxcfK2fJCnhvrdN1X",
+			"thumbnailUri": "ipfs://QmU2C4jU154nwA71AKHeiEj79qe7ZQC4Mf7AeUj5ALXZfe"
+		},
+		{
+			"symbol": "TZS",
+			"tokenAddress": "KT1XRxmUFNcbzGTwQPvNPa5FuuM43uEunp8K",
+			"tokenId": 0,
+			"thumbnailUri": "https://i.ibb.co/bQyLGgQ/tzs-1.jpg"
+		},
+		{
+			"symbol": "USDS",
+			"tokenAddress": "KT1REEb5VxWRjcHm5GzDMwErMmNFftsE5Gpf",
+			"tokenId": 0,
+			"websiteLink": "https://stably.io/",
+			"thumbnailUri": "https://build.teztools.io/token-logo/stably.png"
+		},
+		{
+			"symbol": "XTZGold",
+			"tokenAddress": "KT1S6t5PrHXnozytDU3vYdajmsenoBNYY8WJ",
+			"thumbnailUri": "https://build.teztools.io/token-logo/oropocket.jpg"
+		},
+		{
+			"symbol": "XTZSilver",
+			"tokenAddress": "KT1EqhKGcu9nztF5p9qa4c3cYVqVewQrJpi2",
+			"thumbnailUri": "https://build.teztools.io/token-logo/oropocket.jpg"
 		}
+		
 	]
 }

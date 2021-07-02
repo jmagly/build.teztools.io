@@ -8,9 +8,7 @@
       "shouldPreferSymbol": false,
       "factoryIndex": 0,
       "type": "fa1.2",
-      "address": "KT1W3VGRUjvS869r4ror8kdaxqJAZUbPyjMT",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1W3VGRUjvS869r4ror8kdaxqJAZUbPyjMT"
     },
     {
       "symbol": "kUSD",
@@ -20,9 +18,8 @@
       "shouldPreferSymbol": false,
       "factoryIndex": 1,
       "type": "fa1.2",
-      "address": "KT1K4EwTpbvYN9agJdjpyJm4ZZdhpUNKB3F6",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "thumbnailUri": " https://kolibri-data.s3.amazonaws.com/logo.png",
+      "address": "KT1K4EwTpbvYN9agJdjpyJm4ZZdhpUNKB3F6"
     },
     {
       "symbol": "tzBTC",
@@ -32,9 +29,7 @@
       "shouldPreferSymbol": false,
       "factoryIndex": 2,
       "type": "fa1.2",
-      "address": "KT1WBLrLE2vG8SedBqiSJFm4VVAZZBytJYHc",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1WBLrLE2vG8SedBqiSJFm4VVAZZBytJYHc"
     },
     {
       "symbol": "STKR",
@@ -44,21 +39,17 @@
       "shouldPreferSymbol": false,
       "factoryIndex": 3,
       "type": "fa1.2",
-      "address": "KT1BMEEPX7MWzwwadW3NCSZe9XGmFJ7rs7Dr",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1BMEEPX7MWzwwadW3NCSZe9XGmFJ7rs7Dr"
     },
     {
       "symbol": "USDtz",
       "tokenAddress": "KT1LN4LPSqTMS7Sd2CJw4bbDGRkMv2t68Fy9",
       "decimals": 6,
-      "name": "USDtz",
+      "name": "USDtez",
       "shouldPreferSymbol": false,
       "factoryIndex": 4,
       "type": "fa1.2",
-      "address": "KT1WxgZ1ZSfMgmsSDDcUn8Xn577HwnQ7e1Lb",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1WxgZ1ZSfMgmsSDDcUn8Xn577HwnQ7e1Lb"
     },
     {
       "symbol": "ETHtz",
@@ -68,9 +59,7 @@
       "shouldPreferSymbol": false,
       "factoryIndex": 5,
       "type": "fa1.2",
-      "address": "KT1Evsp2yA19Whm24khvFPcwimK6UaAJu8Zo",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1Evsp2yA19Whm24khvFPcwimK6UaAJu8Zo"
     },
     {
       "symbol": "QLkUSD",
@@ -80,67 +69,55 @@
       "shouldPreferSymbol": false,
       "factoryIndex": 6,
       "type": "fa1.2",
-      "address": "KT1WtFb1mTsFRd1n1nAYMdrE2Ud9XREz5hjK",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1WtFb1mTsFRd1n1nAYMdrE2Ud9XREz5hjK"
     },
     {
       "symbol": "SWAP",
       "tokenAddress": "KT1Q3oMXVxL12Rz4GCwztu8wXBTfWWAM4r5t",
       "decimals": 0,
-      "name": "TezosSwap SWAP token",
-      "shouldPreferSymbol": false,
+      "name": "TezosSwap Token contract",
       "factoryIndex": 7,
       "type": "fa1.2",
-      "address": "KT1SArJcuCSKPzA2NBgR8QbXgD3acfDREBV5",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "thumbnailUri": "ipfs://QmfXjq2HzaA8oVmDU8TjMtsrjBYbF6RhFEKJQymbWZfwuE",
+      "address": "KT1SArJcuCSKPzA2NBgR8QbXgD3acfDREBV5"
     },
     {
       "symbol": "TSV",
       "tokenAddress": "KT1B5LL3GRQL3uLbqwy3C8FL8H7CWj74EbnA",
       "decimals": 0,
-      "name": "TezosSwap VOTES token",
-      "shouldPreferSymbol": false,
+      "name": "TezosSwap Token contract",
       "factoryIndex": 8,
       "type": "fa1.2",
-      "address": "KT1Unphw5yMDcUNAtKpynxWPPLKDegAZQtzb",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "thumbnailUri": "ipfs://QmU8rRH1XDuFkZ2vDnHufop2brn6Y1TgqxpeeFcN1LvPVH",
+      "address": "KT1Unphw5yMDcUNAtKpynxWPPLKDegAZQtzb"
     },
     {
       "symbol": "FEM",
       "tokenAddress": "KT1WHhATGLXFyhmZcK9k7NWo8nw53nDiBzWQ",
       "decimals": 0,
       "name": "Fuck Elon Musk",
-      "shouldPreferSymbol": false,
       "factoryIndex": 9,
       "type": "fa1.2",
-      "address": "KT1LtDLC8HYRi2E9vyb41AoYcmxT7N2QmpM7",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "thumbnailUri": "ipfs://QmYFBpm7Pd49whTGhMZLh7Kkob6CfF2TP6EeLFBN2tePqG",
+      "address": "KT1LtDLC8HYRi2E9vyb41AoYcmxT7N2QmpM7"
     },
     {
       "symbol": "XTZGold",
       "tokenAddress": "KT1S6t5PrHXnozytDU3vYdajmsenoBNYY8WJ",
       "decimals": "6",
       "name": "OroPocket Gold",
-      "factoryIndex": 10,
+      "factoryIndex": 2,
       "type": "fa1.2",
-      "address": "KT1BnwzcFPp3Dudq5EKQUqrrcvZkYW2eJJSL",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1Wnq8KYjyntmGcwnHMz4DnaxhXtjTfv5zR"
     },
     {
       "symbol": "XTZSilver",
       "tokenAddress": "KT1EqhKGcu9nztF5p9qa4c3cYVqVewQrJpi2",
       "decimals": "6",
       "name": "OroPocket Silver",
-      "factoryIndex": 11,
+      "factoryIndex": 3,
       "type": "fa1.2",
-      "address": "KT1U6Q15BPv6KAPxykhQTG5HfeB1bQdziEa9",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1DCi4yga38ZY7omdp5UBYRZDvL3BvLFR8J"
     },
     {
       "symbol": "HEH",
@@ -149,9 +126,8 @@
       "name": "Hedgehoge",
       "factoryIndex": 12,
       "type": "fa1.2",
-      "address": "KT1BgezWwHBxA9NrczwK9x3zfgFnUkc7JJ4b",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "thumbnailUri": "ipfs://QmXL3FZ5kcwXC8mdwkS1iCHS2qVoyg69ugBhU2ap8z1zcs",
+      "address": "KT1BgezWwHBxA9NrczwK9x3zfgFnUkc7JJ4b"
     },
     {
       "symbol": "PLENTY",
@@ -160,9 +136,49 @@
       "name": "Plenty DAO",
       "factoryIndex": 13,
       "type": "fa1.2",
-      "address": "KT1X1LgNkQShpF9nRLYw3Dgdy4qp38MX617z",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "thumbnailUri": "https://raw.githubusercontent.com/Plenty-DeFi/Plenty-Logo/main/PlentyTokenIcon.png",
+      "address": "KT1X1LgNkQShpF9nRLYw3Dgdy4qp38MX617z"
+    },
+    {
+      "symbol": "HERO",
+      "tokenAddress": "KT1UYd3dEhE4kXPjr39GwhgDgaWawTV7HpDR",
+      "decimals": 8,
+      "name": "Tezos Hero Contract",
+      "factoryIndex": 0,
+      "type": "fa1.2",
+      "thumbnailUri": "ipfs://QmcLA9VXRghnhFbfZjJvVE6EtBKehVjQvMVRdp6v9cYmpq",
+      "address": "KT1HuvTLksDHUZYs12MZUbhHHR1SUdMA1NuS"
+    },
+    {
+      "symbol": "CaTz",
+      "tokenAddress": "KT1Ph8ptSU4rf7PPg2YBMR6LTpr6rc4MMyrq",
+      "decimals": 0,
+      "name": "CaTz Token contract",
+      "factoryIndex": 1,
+      "type": "fa1.2",
+      "thumbnailUri": "ipfs://Qme7epqauUCDt6J1oqwqEiDVUBSUbCQg6e9j3QoJGkv3vP",
+      "address": "KT1XmsFAdPhsDnhGzQLqQQiGkCGoyekGFC8B"
+    },
+    {
+      "symbol": "SMAK",
+      "tokenAddress": "KT1TwzD6zV3WeJ39ukuqxcfK2fJCnhvrdN1X",
+      "decimals": 3,
+      "name": "Smartlink",
+      "shouldPreferSymbol": false,
+      "factoryIndex": 4,
+      "type": "fa1.2",
+      "address": "KT1Gdix8LoDoQng7YqdPNhdP5V7JRX8FqWvM"
+    },
+    {
+      "symbol": "MAG",
+      "tokenAddress": "KT1H5KJDxuM9DURSfttepebb6Cn7GbvAAT45",
+      "decimals": 6,
+      "name": "MAG Token",
+      "shouldPreferSymbol": false,
+      "factoryIndex": 5,
+      "type": "fa1.2",
+      "thumbnailUri": "ipfs://QmRGzetwTheMudNFfTAXqfiTbvcN4ZAhAzgUCBSMM43CbY",
+      "address": "KT1WREc3cpr36Nqjvegr6WSPgQKwDjL7XxLN"
     },
     {
       "symbol": "T42",
@@ -174,9 +190,7 @@
       "thumbnailUri": "https://i.postimg.cc/MpKJW5pX/Icon.png",
       "factoryIndex": 0,
       "type": "fa2",
-      "address": "KT1M5H8qkJEzhdC3ZxZ78bSxgmcddrcusbry",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1M5H8qkJEzhdC3ZxZ78bSxgmcddrcusbry"
     },
     {
       "symbol": "TZS",
@@ -188,9 +202,7 @@
       "thumbnailUri": "https://ibb.co/zQLbthQ",
       "factoryIndex": 1,
       "type": "fa2",
-      "address": "KT1A834QfnWremTQ4tc63s8NKbHzLJVszgxc",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1A834QfnWremTQ4tc63s8NKbHzLJVszgxc"
     },
     {
       "symbol": "tCow",
@@ -203,11 +215,7 @@
       "thumbnailUri": "https://cloudflare-ipfs.com/ipfs/QmcRQKxJvnrzmKMH7y7ftkSraKB1rfXqeX4Etz6ve5r278",
       "factoryIndex": 2,
       "type": "fa2",
-      "address": "KT1XQZxsG4pMgcN7q7Nu3XFihsb9mEvqBmAT",
-      "tags": "Meme",
-      "telegramLink": "https://t.me/tSteaker",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1XQZxsG4pMgcN7q7Nu3XFihsb9mEvqBmAT"
     },
     {
       "symbol": "TCZ",
@@ -218,13 +226,7 @@
       "thumbnailUri": "https://tacoz.cash/images/logo_small.png",
       "factoryIndex": 3,
       "type": "fa2",
-      "address": "KT1VfiExduEkrpM4TbsnAw9QV1VURqaRFGKs",
-      "tags": "Meme",
-      "websiteLink": "https://tacoz.cash/",
-      "telegramLink": "https://t.me/tacozcash",
-      "twitterLink": "https://twitter.com/tacozcash",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1VfiExduEkrpM4TbsnAw9QV1VURqaRFGKs"
     },
     {
       "symbol": "PKA",
@@ -235,9 +237,7 @@
       "thumbnailUri": "ipfs://QmVAgWXYepnwEefk8jn4mFZkwvZZ7pTPCPELKgkRkZgk9i",
       "factoryIndex": 4,
       "type": "fa2",
-      "address": "KT1BAPAVXMuYz63HrF9CGM9Gu8JVYTFpYqao",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1BAPAVXMuYz63HrF9CGM9Gu8JVYTFpYqao"
     },
     {
       "tokenAddress": "KT1M2JnD1wsg7w2B4UXJXtKQPuDUpU2L7cJH",
@@ -247,12 +247,7 @@
       "address": "KT1A4Sj8TBg4pazMkj226bAAcH6A4iCNQno4",
       "symbol": "T10X",
       "precision": 1,
-      "decimals": 0,
-      "tags": "Meme",
-      "websiteLink": "https://www.tezos10x.win/",
-      "telegramLink": "https://t.me/Tezos10x",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "decimals": 0
     },
     {
       "symbol": "hDAO",
@@ -264,13 +259,7 @@
       "thumbnailUri": "ipfs://QmPfBrZiRsC39S2VvNbhuxH9HnNcSx8aef9uBCG51J5c4e",
       "factoryIndex": 6,
       "type": "fa2",
-      "address": "KT1QxLqukyfohPV5kPkw97Rs6cw1DDDvYgbB",
-      "tags": "NFT",
-      "websiteLink": "https://www.hicetnunc.xyz/",
-      "telegramLink": "https://t.me/hdaochat",
-      "twitterLink": "https://twitter.com/hicetnunc2000",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1QxLqukyfohPV5kPkw97Rs6cw1DDDvYgbB"
     },
     {
       "symbol": "sDAO",
@@ -281,13 +270,7 @@
       "thumbnailUri": "ipfs://QmPJ7dMS3T6McqPjjBioKhHqtEUEBhAXpcRf3aicaLNPtV",
       "factoryIndex": 7,
       "type": "fa2",
-      "address": "KT1PrRTVNgxkRgyqqNQvwTiVhd55dqyxXJ6n",
-      "tags": "Casino, DeFi",
-      "websiteLink": "https://salsadao.xyz/#/",
-      "telegramLink": "https://t.me/salsadao",
-      "twitterLink": "https://twitter.com/GeniusContracts",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1PrRTVNgxkRgyqqNQvwTiVhd55dqyxXJ6n"
     },
     {
       "symbol": "USDS",
@@ -297,11 +280,7 @@
       "name": "Stably USD",
       "factoryIndex": 8,
       "type": "fa2",
-      "address": "KT1KFszq8UFCcWxnXuhZPUyHT9FK3gjmSKm6",
-      "tags": "StableCoin",
-      "websiteLink": "https://www.stably.io/",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1KFszq8UFCcWxnXuhZPUyHT9FK3gjmSKm6"
     },
     {
       "symbol": "BAN",
@@ -314,9 +293,7 @@
       "thumbnailUri": "https://cloudflare-ipfs.com/ipfs/Qmaavk5fDP4g5e24R1KAntngK5Xo6Loj4cBu7KuYpqb6QW",
       "factoryIndex": 9,
       "type": "fa2",
-      "address": "KT1Sd8jvepChHEHo63owNfjnqgzJEkUWSj9q",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1Sd8jvepChHEHo63owNfjnqgzJEkUWSj9q"
     },
     {
       "symbol": "SHTz",
@@ -325,12 +302,10 @@
       "decimals": 2,
       "name": "Shitz",
       "shouldPreferSymbol": "true",
-      "thumbnailUri": "https://teztools.io/images/token/shitz.png",
+      "thumbnailUri": "https://ibb.co/km908CD",
       "factoryIndex": 10,
       "type": "fa2",
-      "address": "KT1G7Z14RJLKbfu96Hc22bwNL67aykunAGyH",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1G7Z14RJLKbfu96Hc22bwNL67aykunAGyH"
     },
     {
       "symbol": "RSAL",
@@ -341,13 +316,7 @@
       "thumbnailUri": "ipfs://QmV7t21TwpmjRNWoXiqKhudVfZ8gYBDZksmzgDUHGpwz2z",
       "factoryIndex": 11,
       "type": "fa2",
-      "address": "KT1WDe2vJCDqz5euKupppQsioPcakUd45Tfo",
-      "tags": "Casino, DeFi",
-      "websiteLink": "https://salsadao.xyz/#/",
-      "telegramLink": "https://t.me/salsadao",
-      "twitterLink": "https://twitter.com/GeniusContracts",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1WDe2vJCDqz5euKupppQsioPcakUd45Tfo"
     },
     {
       "symbol": "bDAO",
@@ -360,13 +329,7 @@
       "thumbnailUri": "ipfs://QmVMyqkFKAeyfGBeR81h72ugqj4UM8hjqA7KaKcnc35Vtt",
       "factoryIndex": 12,
       "type": "fa2",
-      "address": "KT1DssMzoSr8fnUUq1WxeSuHfLG4gzS7pgge",
-      "tags": "NFT",
-      "websiteLink": "https://bazaarnft.xyz/",
-      "telegramLink": "https://t.me/BazaarCommunity",
-      "twitterLink": "https://twitter.com/BazaarNfts",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1DssMzoSr8fnUUq1WxeSuHfLG4gzS7pgge"
     },
     {
       "symbol": "QPT",
@@ -379,9 +342,7 @@
       "thumbnailUri": "https://quipuswap.com/QPLP.png",
       "factoryIndex": 13,
       "type": "fa2",
-      "address": "KT1UEfXGj5Ag73qCdZTk2534SZDT7cd7J8m8",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1UEfXGj5Ag73qCdZTk2534SZDT7cd7J8m8"
     },
     {
       "symbol": "GUTS",
@@ -394,13 +355,7 @@
       "thumbnailUri": "https://cloudflare-ipfs.com/ipfs/Qmd5PwBHVLAUN1kRWAebDVjrMogJ9oUnNn8sowwTC7HgEv",
       "factoryIndex": 0,
       "type": "fa2",
-      "address": "KT1GaR1CmFoTTjqRwYSE8WdpBuxuviKGbcqs",
-      "tags": "Game",
-      "websiteLink": "https://gutstoken.com/",
-      "telegramLink": "https://t.me/gutsgaming",
-      "twitterLink": "https://twitter.com/xtz_guts",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1GaR1CmFoTTjqRwYSE8WdpBuxuviKGbcqs"
     },
     {
       "symbol": "WRAP",
@@ -411,13 +366,7 @@
       "thumbnailUri": "ipfs://Qma2o69VRZe8aPsuCUN1VRUE5k67vw2mFDXb35uDkqn17o",
       "factoryIndex": 15,
       "type": "fa2",
-      "address": "KT1FG63hhFtMEEEtmBSX2vuFmP87t9E7Ab4t",
-      "tags": "Wrap",
-      "websiteLink": "https://app.tzwrap.com/",
-      "telegramLink": "https://t.me/benderlabs",
-      "twitterLink": "https://twitter.com/BenderLabs_",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1FG63hhFtMEEEtmBSX2vuFmP87t9E7Ab4t"
     },
     {
       "symbol": "wUSDC",
@@ -428,13 +377,7 @@
       "thumbnailUri": "ipfs://QmQfHU9mYLRDU4yh2ihm3zrvVFxDrLPiXNYtMovUQE2S2t",
       "factoryIndex": 16,
       "type": "fa2",
-      "address": "KT1U2hs5eNdeCpHouAvQXGMzGFGJowbhjqmo",
-      "tags": "Wrap",
-      "websiteLink": "https://app.tzwrap.com/",
-      "telegramLink": "https://t.me/benderlabs",
-      "twitterLink": "https://twitter.com/BenderLabs_",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1U2hs5eNdeCpHouAvQXGMzGFGJowbhjqmo"
     },
     {
       "symbol": "wWETH",
@@ -445,13 +388,7 @@
       "thumbnailUri": "ipfs://Qmezz1ztvo5JFshHupBEdUzVppyMfJH6K4kPjQRSZp8cLq",
       "factoryIndex": 17,
       "type": "fa2",
-      "address": "KT1DuYujxrmgepwSDHtADthhKBje9BosUs1w",
-      "tags": "Wrap",
-      "websiteLink": "https://app.tzwrap.com/",
-      "telegramLink": "https://t.me/benderlabs",
-      "twitterLink": "https://twitter.com/BenderLabs_",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1DuYujxrmgepwSDHtADthhKBje9BosUs1w"
     },
     {
       "symbol": "RITA",
@@ -464,9 +401,7 @@
       "thumbnailUri": "https://static.thenounproject.com/png/72946-200.png",
       "factoryIndex": 18,
       "type": "fa2",
-      "address": "KT1L98jqwZtKUZbcPNxb3pTY7b2WXUGEzn8G",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1L98jqwZtKUZbcPNxb3pTY7b2WXUGEzn8G"
     },
     {
       "symbol": "MEL",
@@ -479,9 +414,7 @@
       "thumbnailUri": "https://img.favpng.com/23/24/22/cantaloupe-juice-hami-melon-charentais-melon-png-favpng-pNbCBd1GXZuFBu4S5ddaL5E9b.jpg",
       "factoryIndex": 19,
       "type": "fa2",
-      "address": "KT1BsDKTXBiYck85fJnoDzedyKKNtMuC9B9h",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1BsDKTXBiYck85fJnoDzedyKKNtMuC9B9h"
     },
     {
       "symbol": "BDoge",
@@ -494,13 +427,7 @@
       "thumbnailUri": "https://i.imgur.com/FPoMO8F.png",
       "factoryIndex": 20,
       "type": "fa2",
-      "address": "KT1Th57AbgJmiZWDny6Ewqd2sx5qSxJwu8ry",
-      "tags": "Meme",
-      "websiteLink": "https://www.tezos10x.win/",
-      "telegramLink": "https://t.me/BULLDogeX",
-      "twitterLink": "https://twitter.com/BULLDogeXTZ",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1Th57AbgJmiZWDny6Ewqd2sx5qSxJwu8ry"
     },
     {
       "symbol": "wMATIC",
@@ -511,13 +438,7 @@
       "thumbnailUri": "ipfs://QmchBnjRjpweznHes7bVKHwgzd8D6Q7Yzwf6KmA4KS6Dgi",
       "factoryIndex": 21,
       "type": "fa2",
-      "address": "KT1RsfuBee5o7GtYrdB7bzQ1M6oVgyBnxY4S",
-      "tags": "Wrap",
-      "websiteLink": "https://app.tzwrap.com/",
-      "telegramLink": "https://t.me/benderlabs",
-      "twitterLink": "https://twitter.com/BenderLabs_",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1RsfuBee5o7GtYrdB7bzQ1M6oVgyBnxY4S"
     },
     {
       "symbol": "TTT",
@@ -529,12 +450,7 @@
       "shouldPreferSymbol": "true",
       "factoryIndex": 22,
       "type": "fa2",
-      "address": "KT1WYoYSdHNmNJf9pHWPoHJWDA3bid1NP9SJ",
-      "tags": "Meme",
-      "thumbnailUri": "ipfs://QmehMWo2YC8XVn376MiKU2ZXb3TJAWdPbHAeojkizvP8Sg",
-      "telegramLink": "https://t.me/tacofoodtruck",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1WYoYSdHNmNJf9pHWPoHJWDA3bid1NP9SJ"
     },
     {
       "symbol": "SOIL",
@@ -547,13 +463,7 @@
       "thumbnailUri": "https://i.ibb.co/4ML6VkV/kisspng-humus-portable-network-graphics-soil-clip-art-houm-5c4429fd079dc0-6393132415479710690312.jpg",
       "factoryIndex": 23,
       "type": "fa2",
-      "address": "KT1NXdxJkCiPkhwPvaT9CytFowuUoNcwGM1p",
-      "tags": "DeFi",
-      "websiteLink": "https://farmsoil.xyz/",
-      "telegramLink": "https://t.me/joinchat/oqZreHej77VlNjUx",
-      "twitterLink": "https://twitter.com/farmsomesoil",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1NXdxJkCiPkhwPvaT9CytFowuUoNcwGM1p"
     },
     {
       "symbol": "BART",
@@ -566,13 +476,7 @@
       "thumbnailUri": "https://i2.wp.com/bullishart.com/wp-content/uploads/2021/02/logo.jpg",
       "factoryIndex": 24,
       "type": "fa2",
-      "address": "KT1WJVYEjLRirPQDSWqfggjqFGn14y9hiCBL",
-      "tags": "NFT",
-      "websiteLink": "https://bullishart.com/",
-      "telegramLink": "https://t.me/bullishart",
-      "twitterLink": "https://twitter.com/bullish_art",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1WJVYEjLRirPQDSWqfggjqFGn14y9hiCBL"
     },
     {
       "symbol": "NOLA",
@@ -585,11 +489,7 @@
       "thumbnailUri": "QmVk8qWMfJ79d3pVv6PnTpZerzP7cBjNhbmDyZrfF53TfD",
       "factoryIndex": 25,
       "type": "fa2",
-      "address": "KT1Fm5fS6VhFyE9wgopXcoQ3Nyb5awLY2sQH",
-      "tags": "Meme",
-      "twitterLink": "https://twitter.com/jmgranola",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1Fm5fS6VhFyE9wgopXcoQ3Nyb5awLY2sQH"
     },
     {
       "symbol": "wSUSHI",
@@ -600,13 +500,7 @@
       "thumbnailUri": "ipfs://QmTpss9a4uL3op7x5Lte7CcTKUSUhZsM1Gr34BWNvZCfy4",
       "factoryIndex": 26,
       "type": "fa2",
-      "address": "KT1Lotcahh85kp878JCEc1TjetZ2EgqB24vA",
-      "tags": "Wrap",
-      "websiteLink": "https://app.tzwrap.com/",
-      "telegramLink": "https://t.me/benderlabs",
-      "twitterLink": "https://twitter.com/BenderLabs_",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1Lotcahh85kp878JCEc1TjetZ2EgqB24vA"
     },
     {
       "symbol": "CVZA",
@@ -619,14 +513,7 @@
       "thumbnailUri": "https://i.ibb.co/KyQJRDt/output-onlineimagetools.png",
       "factoryIndex": 27,
       "type": "fa2",
-      "address": "KT1F3BqwEAoa2koYX4Hz7zJ8xfGSxxAGVT8t",
-      "tags": "Utility",
-      "websiteLink": "https://www.freibier.io/",
-      "telegramLink": "https://t.me/cervezabrewery",
-      "twitterLink": "https://twitter.com/brewsomecerveza",
-      "discordLink": "https://discord.gg/693GtVyP7E",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1F3BqwEAoa2koYX4Hz7zJ8xfGSxxAGVT8t"
     },
     {
       "symbol": "wDAI",
@@ -637,9 +524,7 @@
       "thumbnailUri": "ipfs://QmVov6RtfRNzuQGvGKmhnABUsfCiDKvn31amg8DUxzowtM",
       "factoryIndex": 28,
       "type": "fa2",
-      "address": "KT1PQ8TMzGMfViRq4tCMFKD2QF5zwJnY67Xn",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1PQ8TMzGMfViRq4tCMFKD2QF5zwJnY67Xn"
     },
     {
       "symbol": "wLINK",
@@ -650,13 +535,7 @@
       "thumbnailUri": "ipfs://QmeaRuB578Xgy8jxbTxqmQ9s5wyioAEP85V7qbJFnn2uT8",
       "factoryIndex": 29,
       "type": "fa2",
-      "address": "KT1Lpysr4nzcFegC9ci9kjoqVidwoanEmJWt",
-      "tags": "Wrap",
-      "websiteLink": "https://app.tzwrap.com/",
-      "telegramLink": "https://t.me/benderlabs",
-      "twitterLink": "https://twitter.com/BenderLabs_",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1Lpysr4nzcFegC9ci9kjoqVidwoanEmJWt"
     },
     {
       "symbol": "tDAO",
@@ -669,12 +548,7 @@
       "thumbnailUri": "https://www.cryptoliveleak.org/wp-content/uploads/2021/04/Taco-bold.png",
       "factoryIndex": 30,
       "type": "fa2",
-      "address": "KT1X6dAh8fwQMkWC9yh4yuvkJaS5NjqY4NvW",
-      "tags": "NFT",
-      "websiteLink": "https://tezonians.space/",
-      "twitterLink": "https://twitter.com/tezonians",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1X6dAh8fwQMkWC9yh4yuvkJaS5NjqY4NvW"
     },
     {
       "symbol": "rugDao",
@@ -687,9 +561,7 @@
       "thumbnailUri": "https://ipfs.io/ipfs/Qmdqbhy533eYfDvPMY4NS5Gpneezra7vJYFYCfLkkjyTmZ",
       "factoryIndex": 31,
       "type": "fa2",
-      "address": "KT1D3tdqrEkcwKkhJso5jmrJiyiaNVWtYiFJ",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1D3tdqrEkcwKkhJso5jmrJiyiaNVWtYiFJ"
     },
     {
       "symbol": "DONTz",
@@ -702,9 +574,7 @@
       "thumbnailUri": "https://i.imgur.com/axeSNTv.png",
       "factoryIndex": 32,
       "type": "fa2",
-      "address": "KT1FaPEfr2hGTR1d4tN9VikubuSVS1CuuMJX",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1FaPEfr2hGTR1d4tN9VikubuSVS1CuuMJX"
     },
     {
       "symbol": "BEEz",
@@ -717,9 +587,7 @@
       "thumbnailUri": "https://imgur.com/kKf8GaL.png",
       "factoryIndex": 33,
       "type": "fa2",
-      "address": "KT1A4tYKJDJHrLonvp4qkJpZz5fkoWcAxMxW",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1A4tYKJDJHrLonvp4qkJpZz5fkoWcAxMxW"
     },
     {
       "symbol": "gDAO",
@@ -732,9 +600,7 @@
       "thumbnailUri": "https://ipfs.io/ipfs/QmNv5MMjh3k86wPaDRnWeE8kY1PMV7eS4TS1TW9ZAe42aV?filename=gdao.PNG",
       "factoryIndex": 34,
       "type": "fa2",
-      "address": "KT198myhugqAVvtNbYgN4sBKMFRYBvprcKHf",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT198myhugqAVvtNbYgN4sBKMFRYBvprcKHf"
     },
     {
       "symbol": "wPAX",
@@ -745,13 +611,7 @@
       "thumbnailUri": "ipfs://QmZD5QDAeAUyyLYKiMmxD4vfWpVeYHctcbTkPmo4NudDHt",
       "factoryIndex": 35,
       "type": "fa2",
-      "address": "KT1Ca5FGSeFLH3ugstc5p56gJDMPeraBcDqE",
-      "tags": "Wrap",
-      "websiteLink": "https://app.tzwrap.com/",
-      "telegramLink": "https://t.me/benderlabs",
-      "twitterLink": "https://twitter.com/BenderLabs_",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1Ca5FGSeFLH3ugstc5p56gJDMPeraBcDqE"
     },
     {
       "symbol": "WEED",
@@ -761,14 +621,10 @@
       "description": "Tezos' first weed toke(n) - Come get your toke(n) and pass the joint.",
       "name": "Weed",
       "shouldPreferSymbol": "true",
-      "thumbnailUri": "ipfs://QmZsAhpKcAypYTUNJ1wytmekM1sMJT1ASb6GURjz4VShTR",
+      "thumbnailUri": "https://ibb.co/4j1y6dX",
       "factoryIndex": 36,
       "type": "fa2",
-      "address": "KT1TYjt5eLHRx3nQpSfaR94oQ6vehu24vvSQ",
-      "tags": "Meme",
-      "twitterLink": "https://twitter.com/tezos_weed",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1TYjt5eLHRx3nQpSfaR94oQ6vehu24vvSQ"
     },
     {
       "symbol": "wWBTC",
@@ -779,13 +635,7 @@
       "thumbnailUri": "ipfs://Qmdj6n9T48LDWex8NkBMKUQJfZgardxZVdtRRibYQVzLCJ",
       "factoryIndex": 37,
       "type": "fa2",
-      "address": "KT1DksKXvCBJN7Mw6frGj6y6F3CbABWZVpj1",
-      "tags": "Wrap",
-      "websiteLink": "https://app.tzwrap.com/",
-      "telegramLink": "https://t.me/benderlabs",
-      "twitterLink": "https://twitter.com/BenderLabs_",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1DksKXvCBJN7Mw6frGj6y6F3CbABWZVpj1"
     },
     {
       "symbol": "SEB",
@@ -798,12 +648,7 @@
       "thumbnailUri": "https://tzstats.com/logos/tz1R664EP6wjcM1RSUVJ7nrJisTpBW9QyJzP.png",
       "factoryIndex": 38,
       "type": "fa2",
-      "address": "KT1S4WyNiYPoYheihysddNh5hojNFdiVBwZL",
-      "tags": "Meme",
-      "websiteLink": "https://sebuh.net/",
-      "twitterLink": "https://twitter.com/Sebuh_com",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1S4WyNiYPoYheihysddNh5hojNFdiVBwZL"
     },
     {
       "symbol": "CUU",
@@ -816,9 +661,7 @@
       "thumbnailUri": "https://i.ibb.co/F0sggDd/YPoYZuS.jpg",
       "factoryIndex": 39,
       "type": "fa2",
-      "address": "KT1W1hafYEzQkQLXyRPTxMeG3UaoUSsW7wNR",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1W1hafYEzQkQLXyRPTxMeG3UaoUSsW7wNR"
     },
     {
       "symbol": "HSK",
@@ -831,9 +674,7 @@
       "thumbnailUri": "https://i.ibb.co/M2fxvDC/unnamed.jpg",
       "factoryIndex": 40,
       "type": "fa2",
-      "address": "KT19HJTgEqnmi1cYyq8z2WFtyNTECodfixmj",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT19HJTgEqnmi1cYyq8z2WFtyNTECodfixmj"
     },
     {
       "symbol": "TITz",
@@ -846,9 +687,7 @@
       "thumbnailUri": "https://ibb.co/KXT49FK",
       "factoryIndex": 41,
       "type": "fa2",
-      "address": "KT1BNRefGboWR4p2SFwDDTosjnPKPL9hVk3q",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1BNRefGboWR4p2SFwDDTosjnPKPL9hVk3q"
     },
     {
       "symbol": "F15H",
@@ -861,9 +700,7 @@
       "thumbnailUri": "https://i.ibb.co/Zhv6Tng/F15H.jpg",
       "factoryIndex": 42,
       "type": "fa2",
-      "address": "KT1CNEgfKrGWtYdWAGG3cyZAUcFFpotmAme9",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1CNEgfKrGWtYdWAGG3cyZAUcFFpotmAme9"
     },
     {
       "symbol": "FLAME",
@@ -873,14 +710,7 @@
       "name": "FLAME",
       "factoryIndex": 43,
       "type": "fa2",
-      "address": "KT1Q93ftAUzvfMGPwC78nX8eouL1VzmHPd4d",
-      "tags": "DEX",
-      "websiteLink": "http://spacefarm.xyz",
-      "telegramLink": "https://t.me/FLAMEtokenFarm",
-      "thumbnailUri": "ipfs://QmT6abVwDWZE2XjypJvfDVCRV68DgjDmtFHAQZJrQfa7Lz",
-      "twitterLink": "https://twitter.com/FlameDeFi",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1Q93ftAUzvfMGPwC78nX8eouL1VzmHPd4d"
     },
     {
       "symbol": "BRR",
@@ -892,9 +722,7 @@
       "shouldPreferSymbol": "true",
       "factoryIndex": 44,
       "type": "fa2",
-      "address": "KT1PmH3JCEo65koqSGGUArKSpbKMN8dJ3BPZ",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1PmH3JCEo65koqSGGUArKSpbKMN8dJ3BPZ"
     },
     {
       "symbol": "BEEF",
@@ -907,9 +735,7 @@
       "thumbnailUri": "https://www.pngfind.com/pngs/m/173-1730620_beef-clipart-rare-meat-meat-icon-png-transparent.png",
       "factoryIndex": 45,
       "type": "fa2",
-      "address": "KT1BtmMAnmTGHAA9ZV8xPzuwZu4ibL7f5qb3",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1BtmMAnmTGHAA9ZV8xPzuwZu4ibL7f5qb3"
     },
     {
       "symbol": "RTT",
@@ -922,9 +748,7 @@
       "thumbnailUri": "https://i.imgur.com/zNalRBN.jpg",
       "factoryIndex": 46,
       "type": "fa2",
-      "address": "KT1QoKSXVnvytnkbMLu8Nqh9vH9qPdtvxR6K",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1QoKSXVnvytnkbMLu8Nqh9vH9qPdtvxR6K"
     },
     {
       "symbol": "boofs",
@@ -936,9 +760,7 @@
       "shouldPreferSymbol": "true",
       "factoryIndex": 47,
       "type": "fa2",
-      "address": "KT1F2uvnfdN6GYKhhCDfb1kt5h9TaeXAbVeh",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1F2uvnfdN6GYKhhCDfb1kt5h9TaeXAbVeh"
     },
     {
       "symbol": "Chunk",
@@ -951,9 +773,7 @@
       "thumbnailUri": "https://cloudflare-ipfs.com/ipfs/QmWvH2fKhAvM1tguBP8nucbsHpZdGEdCwU33U6ZgQQT88V",
       "factoryIndex": 48,
       "type": "fa2",
-      "address": "KT1DiGxvRshVMn2p1KRfew6fnP9hpHT212MX",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1DiGxvRshVMn2p1KRfew6fnP9hpHT212MX"
     },
     {
       "symbol": "tChicken",
@@ -966,11 +786,7 @@
       "thumbnailUri": "https://i.imgur.com/tJw9Cer.png",
       "factoryIndex": 49,
       "type": "fa2",
-      "address": "KT1JzZtBeHDBS9XyEqUc9nZhsqcfeNLxVV1T",
-      "tags": "Meme",
-      "telegramLink": "https://t.me/tChicken",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1JzZtBeHDBS9XyEqUc9nZhsqcfeNLxVV1T"
     },
     {
       "symbol": "TACOS",
@@ -983,9 +799,7 @@
       "thumbnailUri": "https://ipfs.io/ipfs/QmRTWJ57ytvM4USQRtUC1ujXAncMJNUrUAMsFqjEKhKmcb/",
       "factoryIndex": 50,
       "type": "fa2",
-      "address": "KT1ERtmznJQj4JpX7q6dN3JLJXaDTnZkD7e4",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1ERtmznJQj4JpX7q6dN3JLJXaDTnZkD7e4"
     },
     {
       "symbol": "chunc",
@@ -998,9 +812,7 @@
       "thumbnailUri": "https://cloudflare-ipfs.com/ipfs/QmfEbirSA7indrEzjFAtJ589oChBFrqLio9kwpJwR4ttHx",
       "factoryIndex": 51,
       "type": "fa2",
-      "address": "KT1LXkyMvjuTk2ugEA7UsRmEWHautLH147ez",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1LXkyMvjuTk2ugEA7UsRmEWHautLH147ez"
     },
     {
       "symbol": "Bezos",
@@ -1013,9 +825,7 @@
       "thumbnailUri": "https://cloudflare-ipfs.com/ipfs/QmfEbirSA7indrEzjFAtJ589oChBFrqLio9kwpJwR4ttHx",
       "factoryIndex": 52,
       "type": "fa2",
-      "address": "KT1UM7LbQuZ5e26RgJ97aRLJ3ymmBUq8zjmB",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1UM7LbQuZ5e26RgJ97aRLJ3ymmBUq8zjmB"
     },
     {
       "symbol": "Bezos",
@@ -1028,9 +838,7 @@
       "thumbnailUri": "https://cloudflare-ipfs.com/ipfs/QmfEbirSA7indrEzjFAtJ589oChBFrqLio9kwpJwR4ttHx",
       "factoryIndex": 53,
       "type": "fa2",
-      "address": "KT1DbjgC2sGUQHLpfuMEVvErWVsaKu5K6Pjo",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1DbjgC2sGUQHLpfuMEVvErWVsaKu5K6Pjo"
     },
     {
       "symbol": "GSAL",
@@ -1041,13 +849,7 @@
       "thumbnailUri": "ipfs://QmeG8pd8PYRyPkCiL3nj4ghauuiYy13531vJYUfvNzyLX9",
       "factoryIndex": 54,
       "type": "fa2",
-      "address": "KT1BzNUUjURkTtNhXFkbGtu9fY3Q5scKZrvK",
-      "tags": "Casino, DeFi",
-      "websiteLink": "https://salsadao.xyz/#/",
-      "telegramLink": "https://t.me/salsadao",
-      "twitterLink": "https://twitter.com/GeniusContracts",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1BzNUUjURkTtNhXFkbGtu9fY3Q5scKZrvK"
     },
     {
       "symbol": "sCAS",
@@ -1058,9 +860,7 @@
       "thumbnailUri": "ipfs://QmaWmMKhxz5s2CdFkYpFqcQVZx3jjPNaMasuNnqCs4fCAr",
       "factoryIndex": 55,
       "type": "fa2",
-      "address": "KT1HhUWkzjmdjFTgNMmGgdNWGb6wwEXA4XCT",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1HhUWkzjmdjFTgNMmGgdNWGb6wwEXA4XCT"
     },
     {
       "symbol": "MIL",
@@ -1073,9 +873,7 @@
       "thumbnailUri": "QmUpnopKukCaZs38X9hFR3GxjsVk6Jecu7zuhACWU5KqN2",
       "factoryIndex": 56,
       "type": "fa2",
-      "address": "KT1LZqFas2GEUe5z5CFkL9Wqq6tZFzQbopm8",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1LZqFas2GEUe5z5CFkL9Wqq6tZFzQbopm8"
     },
     {
       "symbol": "wAAVE",
@@ -1086,13 +884,7 @@
       "thumbnailUri": "ipfs://QmVUVanUUjHmgkjnUC6TVzG7pPz6iy7C8tnAoXNNpofYPg",
       "factoryIndex": 57,
       "type": "fa2",
-      "address": "KT1Lvtxpg4MiT2Bs38XGxwh3LGi5MkCENp4v",
-      "tags": "Wrap",
-      "websiteLink": "https://app.tzwrap.com/",
-      "telegramLink": "https://t.me/benderlabs",
-      "twitterLink": "https://twitter.com/BenderLabs_",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1Lvtxpg4MiT2Bs38XGxwh3LGi5MkCENp4v"
     },
     {
       "symbol": "wBUSD",
@@ -1103,13 +895,7 @@
       "thumbnailUri": "ipfs://QmRB63vb8ThpmxHKF4An3XD8unHyCUuLYm5bZNhXwU4gAZ",
       "factoryIndex": 58,
       "type": "fa2",
-      "address": "KT1UMAE2PBskeQayP5f2ZbGiVYF7h8bZ2gyp",
-      "tags": "Wrap",
-      "websiteLink": "https://app.tzwrap.com/",
-      "telegramLink": "https://t.me/benderlabs",
-      "twitterLink": "https://twitter.com/BenderLabs_",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1UMAE2PBskeQayP5f2ZbGiVYF7h8bZ2gyp"
     },
     {
       "symbol": "wCEL",
@@ -1120,9 +906,7 @@
       "thumbnailUri": "ipfs://QmfNuyU3V6XeS9PgVXMDq4h5ux1VciUXtApP2ZGC4VSGLd",
       "factoryIndex": 59,
       "type": "fa2",
-      "address": "KT1KuV43iebbbrkBMGov2QMgAbsnAksx6ncW",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1KuV43iebbbrkBMGov2QMgAbsnAksx6ncW"
     },
     {
       "symbol": "wCOMP",
@@ -1133,9 +917,7 @@
       "thumbnailUri": "ipfs://QmYy2jUUE69W5eE9uwh4x5LqUxHt3GVy8sjXHhpViqCspG",
       "factoryIndex": 60,
       "type": "fa2",
-      "address": "KT1DA8NH6UqCiSZhEg5KboxosMqLghwwvmTe",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1DA8NH6UqCiSZhEg5KboxosMqLghwwvmTe"
     },
     {
       "symbol": "wCRO",
@@ -1146,9 +928,7 @@
       "thumbnailUri": "ipfs://QmUuhxgCm2EXwddpU8ofBBh9z1qzxf2BJRbxxR1ebYr8Hd",
       "factoryIndex": 61,
       "type": "fa2",
-      "address": "KT1GSjkSg6MFmEMnTJSk6uyYpWXaEYFahrS4",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1GSjkSg6MFmEMnTJSk6uyYpWXaEYFahrS4"
     },
     {
       "symbol": "wFTT",
@@ -1159,9 +939,7 @@
       "thumbnailUri": "ipfs://QmVBjgrJiUynv72MR6rRyUu1WLKX52bWGiKk7H2CaFDRNW",
       "factoryIndex": 62,
       "type": "fa2",
-      "address": "KT1SzCtZYesqXt57qHymr3Hj37zPQT47JN6x",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1SzCtZYesqXt57qHymr3Hj37zPQT47JN6x"
     },
     {
       "symbol": "wHT",
@@ -1172,9 +950,7 @@
       "thumbnailUri": "ipfs://Qmayt4JbYTkQinNUeVGLhp51LTRMD1273HRgo9p96SoQaM",
       "factoryIndex": 63,
       "type": "fa2",
-      "address": "KT1GsTjbWkTgtsWenM6oWuTuft3Qb46p2x4c",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1GsTjbWkTgtsWenM6oWuTuft3Qb46p2x4c"
     },
     {
       "symbol": "wHUSD",
@@ -1185,9 +961,7 @@
       "thumbnailUri": "ipfs://QmT9bozupnmWjmjnXp8KcZqDY9HYLLr5KgojfxqgoWRgCt",
       "factoryIndex": 64,
       "type": "fa2",
-      "address": "KT1AN7BBmeSUN5eDDQLEhWmXv1gn4exc5k8R",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1AN7BBmeSUN5eDDQLEhWmXv1gn4exc5k8R"
     },
     {
       "symbol": "wLEO",
@@ -1198,9 +972,7 @@
       "thumbnailUri": "ipfs://QmPrmELnhSoheHCHx6XcjSera7f89NYmXabBnSRSCdDjBh",
       "factoryIndex": 65,
       "type": "fa2",
-      "address": "KT1MpRQvn2VRR26VJFPYUGcB8qqxBbXgk5xe",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1MpRQvn2VRR26VJFPYUGcB8qqxBbXgk5xe"
     },
     {
       "symbol": "wMKR",
@@ -1211,9 +983,7 @@
       "thumbnailUri": "ipfs://QmPTob6YP9waErN4gMXqHg6ZyazSFB9CEojot4BB2XPpZJ",
       "factoryIndex": 66,
       "type": "fa2",
-      "address": "KT1MaefGJRtu57DiVhQNEjYgTYok3X71iEDj",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1MaefGJRtu57DiVhQNEjYgTYok3X71iEDj"
     },
     {
       "symbol": "wOKB",
@@ -1224,9 +994,7 @@
       "thumbnailUri": "ipfs://QmPpmuLw4i9qJLMmGjXrGxrcPBwTiNZgLGuh7kYXeyTdyA",
       "factoryIndex": 67,
       "type": "fa2",
-      "address": "KT1NQyNPXmjYktNBDhYkBKyTGYcJSkNbYXuh",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1NQyNPXmjYktNBDhYkBKyTGYcJSkNbYXuh"
     },
     {
       "symbol": "wUNI",
@@ -1237,13 +1005,7 @@
       "thumbnailUri": "ipfs://QmQBezdVvotCGnFHgQNKduLdxEJhfgruSEqtwnWY7mESb2",
       "factoryIndex": 68,
       "type": "fa2",
-      "address": "KT1Ti3nJT85vNn81Dy5VyNzgufkAorUoZ96q",
-      "tags": "Wrap",
-      "websiteLink": "https://app.tzwrap.com/",
-      "telegramLink": "https://t.me/benderlabs",
-      "twitterLink": "https://twitter.com/BenderLabs_",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1Ti3nJT85vNn81Dy5VyNzgufkAorUoZ96q"
     },
     {
       "symbol": "wUSDT",
@@ -1254,13 +1016,7 @@
       "thumbnailUri": "ipfs://QmVbiHa37pe2U9FfXBYfvrLNpb38rbXwaN19HwZD2speFA",
       "factoryIndex": 69,
       "type": "fa2",
-      "address": "KT1T4pfr6NL8dUiz8ibesjEvH2Ne3k6AuXgn",
-      "tags": "Wrap",
-      "websiteLink": "https://app.tzwrap.com/",
-      "telegramLink": "https://t.me/benderlabs",
-      "twitterLink": "https://twitter.com/BenderLabs_",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1T4pfr6NL8dUiz8ibesjEvH2Ne3k6AuXgn"
     },
     {
       "symbol": "CRUNCH",
@@ -1271,13 +1027,7 @@
       "thumbnailUri": "ipfs://bafybeienhhbxz53n3gtg7stjou2zs3lmhupahwovv2kxwh5uass3bc5xzq",
       "factoryIndex": 70,
       "type": "fa2",
-      "address": "KT1RRgK6eXvCWCiEGWhRZCSVGzhDzwXEEjS4",
-      "tags": "DeFi, Utility",
-      "websiteLink": "https://crunchy.network/",
-      "telegramLink": "https://t.me/crunchy_network",
-      "twitterLink": "https://twitter.com/CrunchyTez",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1RRgK6eXvCWCiEGWhRZCSVGzhDzwXEEjS4"
     },
     {
       "symbol": "FKB",
@@ -1290,9 +1040,7 @@
       "thumbnailUri": "https://scontent.fsac1-2.fna.fbcdn.net/v/t1.6435-9/181890734_808382610034581_2391798414909203062_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=730e14&_nc_ohc=7Vfwv08XLWkAX9o04A3&_nc_ht=scontent.fsac1-2.fna&oh=a1d154f51163dc1e12fb71e089943612&oe=60B579F1",
       "factoryIndex": 71,
       "type": "fa2",
-      "address": "KT1MEJ7TUrphCY6tQ9LmyuyreZ5SRA1uU4xC",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1MEJ7TUrphCY6tQ9LmyuyreZ5SRA1uU4xC"
     },
     {
       "symbol": "Bezos",
@@ -1305,11 +1053,7 @@
       "thumbnailUri": "https://cloudflare-ipfs.com/ipfs/QmfEbirSA7indrEzjFAtJ589oChBFrqLio9kwpJwR4ttHx",
       "factoryIndex": 72,
       "type": "fa2",
-      "address": "KT1ETAtdv2PTvXwbGGsWWjnswfagdUc77hiP",
-      "tags": "Meme",
-      "twitterLink": "https://twitter.com/WeBezos",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1ETAtdv2PTvXwbGGsWWjnswfagdUc77hiP"
     },
     {
       "symbol": "BISA",
@@ -1322,9 +1066,7 @@
       "thumbnailUri": "https://energiminas.com/wp-content/uploads/2018/07/bisa-web-808x454.jpg",
       "factoryIndex": 73,
       "type": "fa2",
-      "address": "KT1MrzcYWmMbPf3ftyKKH5RaMUVhQSXpZXjP",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1MrzcYWmMbPf3ftyKKH5RaMUVhQSXpZXjP"
     },
     {
       "symbol": "sVote",
@@ -1335,13 +1077,7 @@
       "thumbnailUri": "ipfs://QmQra8QK4zdE3vC7NZ5yyNsa7kP9Zjw3eMDiWoTBzAS9n3",
       "factoryIndex": 74,
       "type": "fa2",
-      "address": "KT1VcUfNTWM8565RNLnwzmJRVHUNbZBKUtcj",
-      "tags": "Casino, DeFi",
-      "websiteLink": "https://salsadao.xyz/#/",
-      "telegramLink": "https://t.me/salsadao",
-      "twitterLink": "https://twitter.com/GeniusContracts",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1VcUfNTWM8565RNLnwzmJRVHUNbZBKUtcj"
     },
     {
       "symbol": "BDVXP",
@@ -1354,11 +1090,7 @@
       "thumbnailUri": "https://gateway.pinata.cloud/ipfs/QmVbkmsnie44NUMFzhamLcDKTFAzVbPafYGLna65KfKCHK",
       "factoryIndex": 75,
       "type": "fa2",
-      "address": "KT1C755xS3TLH4HEWaCJvWuoHTcytTBdEjgS",
-      "tags": "Meme",
-      "websiteLink": "http://bohnerdyldohvx.com/",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1C755xS3TLH4HEWaCJvWuoHTcytTBdEjgS"
     },
     {
       "symbol": "FKB",
@@ -1371,9 +1103,7 @@
       "thumbnailUri": "ipfs://QmZbexkH5MYPc3UMpwkeKt18enUzbKGDCsmZonBdFjkM5T",
       "factoryIndex": 76,
       "type": "fa2",
-      "address": "KT1UyqBg82dWGBCyFbRD8J96Ud6diYLkt8Ca",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1UyqBg82dWGBCyFbRD8J96Ud6diYLkt8Ca"
     },
     {
       "symbol": "FARM",
@@ -1386,13 +1116,7 @@
       "thumbnailUri": "https://i.postimg.cc/mgWJwckY/Farmer.png",
       "factoryIndex": 77,
       "type": "fa2",
-      "address": "KT1NF5vZdWjYQcb8Uq9SkgTrLgc9P23AraX7",
-      "tags": "DeFi",
-      "websiteLink": "https://farmsoil.xyz/",
-      "telegramLink": "https://t.me/joinchat/oqZreHej77VlNjUx",
-      "twitterLink": "https://twitter.com/farmsomesoil",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1NF5vZdWjYQcb8Uq9SkgTrLgc9P23AraX7"
     },
     {
       "symbol": "wTaco",
@@ -1403,13 +1127,7 @@
       "thumbnailUri": "ipfs://QmXsbFanpa6rTYXCWMzvDsynqnqn33TpFxe4K7qmQFB7ez",
       "factoryIndex": 2,
       "type": "fa2",
-      "address": "KT1UV2rW49MUxvYVHrrQZejkr7mzaADQ3Wa4",
-      "tags": "Casino, DeFi",
-      "websiteLink": "https://salsadao.xyz/#/",
-      "telegramLink": "https://t.me/salsadao",
-      "twitterLink": "https://twitter.com/GeniusContracts",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1UV2rW49MUxvYVHrrQZejkr7mzaADQ3Wa4"
     },
     {
       "symbol": "GHST",
@@ -1422,9 +1140,7 @@
       "thumbnailUri": "https://ipfs.io/ipfs/QmNo5dyUEzJsVRYaqRHLsPq8K1JzJ6TcZvPQzyAvZ71Nit?filename=ghostlogo.PNG",
       "factoryIndex": 79,
       "type": "fa2",
-      "address": "KT1X6MJFtzypK6yuMXzg4KQ9FJAccH8PazKz",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1X6MJFtzypK6yuMXzg4KQ9FJAccH8PazKz"
     },
     {
       "symbol": "OBJKT",
@@ -1437,9 +1153,7 @@
       "thumbnailUri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
       "factoryIndex": 80,
       "type": "fa2",
-      "address": "KT1Np7wGxpgmBjCuh9PFG27LzLiEx1f8sUtq",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1Np7wGxpgmBjCuh9PFG27LzLiEx1f8sUtq"
     },
     {
       "symbol": "OBJKT",
@@ -1452,9 +1166,7 @@
       "thumbnailUri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
       "factoryIndex": 81,
       "type": "fa2",
-      "address": "KT1SamzaXd2qMYa5aezqUye1VWBHr6dMjwGX",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1SamzaXd2qMYa5aezqUye1VWBHr6dMjwGX"
     },
     {
       "symbol": "HUNC",
@@ -1467,9 +1179,7 @@
       "thumbnailUri": "https://i.imgur.com/dcErUZK.png",
       "factoryIndex": 82,
       "type": "fa2",
-      "address": "KT1Ji39TrkVBd6L2SL7H4u9yvA1sPuSygthq",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1Ji39TrkVBd6L2SL7H4u9yvA1sPuSygthq"
     },
     {
       "symbol": "ptai",
@@ -1482,9 +1192,7 @@
       "thumbnailUri": "http://painters.ai/ptai.png",
       "factoryIndex": 83,
       "type": "fa2",
-      "address": "KT1TtpMxWwAR41b8f8k4ujqjd8YoWvYDR5tN",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1TtpMxWwAR41b8f8k4ujqjd8YoWvYDR5tN"
     },
     {
       "symbol": "TOKENS",
@@ -1496,9 +1204,7 @@
       "thumbnailUri": "https://user-images.githubusercontent.com/576184/118975372-3e72fc00-b974-11eb-9fa8-f0e86f4b1e31.png",
       "factoryIndex": 84,
       "type": "fa2",
-      "address": "KT1ANEFHasacTTZxGPmQmZo7spj5YuLE6TL4",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1ANEFHasacTTZxGPmQmZo7spj5YuLE6TL4"
     },
     {
       "symbol": "RVN",
@@ -1511,9 +1217,7 @@
       "thumbnailUri": "https://imgpile.com/images/NnJ082.png",
       "factoryIndex": 85,
       "type": "fa2",
-      "address": "KT1U21k5fMPxeZwj7ogASXyAwUHVT89U9X2S",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1U21k5fMPxeZwj7ogASXyAwUHVT89U9X2S"
     },
     {
       "symbol": "DJKHALED",
@@ -1526,9 +1230,7 @@
       "thumbnailUri": "https://gifimage.net/wp-content/uploads/2017/09/another-one-dj-khaled-gif.gif",
       "factoryIndex": 1,
       "type": "fa2",
-      "address": "KT1WnUVk9Z1Ua2UEHEraNRw48LYkmPvHbJwG",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1WnUVk9Z1Ua2UEHEraNRw48LYkmPvHbJwG"
     },
     {
       "symbol": "FuADA",
@@ -1541,9 +1243,7 @@
       "thumbnailUri": "https://static.thenounproject.com/png/197746-200.png",
       "factoryIndex": 3,
       "type": "fa2",
-      "address": "KT1DxE2SLAVXWfbzAKHtKzdf4cvCSQtdVwUT",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1DxE2SLAVXWfbzAKHtKzdf4cvCSQtdVwUT"
     },
     {
       "symbol": "TQLA",
@@ -1556,9 +1256,7 @@
       "thumbnailUri": "https://cryptocurrencytoday.net/images/TQLA-logo350x350.png",
       "factoryIndex": 4,
       "type": "fa2",
-      "address": "KT1SKEp4kiJSSfKG6FJiRV3ckympSuLhfCH6",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1SKEp4kiJSSfKG6FJiRV3ckympSuLhfCH6"
     },
     {
       "symbol": "CLEO",
@@ -1571,11 +1269,361 @@
       "thumbnailUri": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Flucky-cat-design_7798646.htm&psig=AOvVaw0KuSKdczTDRp2n7n7O5mpE&ust=1622327772318000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDM14a47fACFQAAAAAdAAAAABAL",
       "factoryIndex": 5,
       "type": "fa2",
-      "address": "KT1R8eiRrSoSHufHXPqevZZYEUVzBxhcdenP",
-      "timestamp": "2021-05-30T22:37:46Z",
-      "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q"
+      "address": "KT1R8eiRrSoSHufHXPqevZZYEUVzBxhcdenP"
+    },
+    {
+      "symbol": "SKPx",
+      "tokenAddress": "KT18m6tZApSYdiicxNFP9PUinG6nsPri9jcS",
+      "tokenId": 0,
+      "decimals": 10,
+      "description": "crypto artistic coin skullspixel",
+      "name": "SkullsPixels",
+      "shouldPreferSymbol": "true",
+      "thumbnailUri": "https://cloudflare-ipfs.com/ipfs/QmeZMKRxp1U2QnJbypHibtkcshAfKEnmVXAcSEg81n9dBH",
+      "factoryIndex": 6,
+      "type": "fa2",
+      "address": "KT1QcjAPGokiVqeGDTJZuJuBvRJPtWtqSJFG"
+    },
+    {
+      "symbol": "KALAM",
+      "tokenAddress": "KT1A5P4ejnLix13jtadsfV9GCnXLMNnab8UT",
+      "tokenId": 0,
+      "decimals": 10,
+      "description": "Kalamint NFT Platform Token",
+      "name": "Kalamint",
+      "thumbnailUri": "ipfs://Qme9FX9M7o2PZt9h6rvkUbfXoLpQr1HsuMQi6sL5Y75g3A",
+      "factoryIndex": 7,
+      "type": "fa2",
+      "address": "KT1J3wTYb4xk5BsSBkg6ML55bX1xq7desS34"
+    },
+    {
+      "symbol": "GONZ",
+      "tokenAddress": "KT1RTsRfBxLf6egtsXrQX1CcXCqKL3XwpuFT",
+      "tokenId": 0,
+      "decimals": 6,
+      "description": "This token is created by DoctaGonz for the purpose of building da future of NFT markets on Tezos. For more information, follow @DoctaGonz on Twitter.",
+      "name": "DoctaGonz",
+      "shouldPreferSymbol": "true",
+      "thumbnailUri": "ipfs://QmRiiEnzKXHN9izVVkbBMgW2gpwJtqG7wjULByqZH8RrDr",
+      "factoryIndex": 8,
+      "type": "fa2",
+      "address": "KT1V2ycxoY55ACtvdbxQMM7d4wnQ1QCxTCJg"
+    },
+    {
+      "symbol": "NFA",
+      "tokenAddress": "KT1BAPFGXsXUpEAiBmTHkmTv8KGAqt5ZgwXZ",
+      "tokenId": 0,
+      "decimals": 6,
+      "description": "NFA DAO",
+      "name": "NFA DAO",
+      "shouldPreferSymbol": "true",
+      "thumbnailUri": "https://raw.githubusercontent.com/piensa/piensa.github.io/ca0d007f5738312ac3eafdaa857b085245e7ba3d/img/nfa.png",
+      "factoryIndex": 9,
+      "type": "fa2",
+      "address": "KT1ULad9tYBY39FT8K1Dgtha7jD3qpygbLPG"
+    },
+    {
+      "tokenAddress": "KT1JJUWAb6WHoKpzT2Ga5Y4rgMAkeptKHqQ8",
+      "tokenId": 0,
+      "factoryIndex": 10,
+      "type": "fa2",
+      "address": "KT1A91CcMx1izXcbBwyH3z8Do3vnEdKpbde2",
+      "symbol": "MOZIK",
+      "precision": 1,
+      "decimals": 0
+    },
+    {
+      "symbol": "$MOZ",
+      "tokenAddress": "KT1GUnUAxdLUUPrA46hhjY7Pdv1CkppMZyXB",
+      "tokenId": 0,
+      "decimals": 4,
+      "description": "Music, Dream & Value - Mozik NFT\n\nTezos allocation\nWebsite: www.mozik.cc\nTwitter: twitter.com/MozikMoz",
+      "name": "Mozik NFT",
+      "shouldPreferSymbol": "true",
+      "thumbnailUri": "ipfs://QmTYMWr7NC5a35WMTx6FutDKFysd4XiuJc86gb8UJnCqLU",
+      "factoryIndex": 11,
+      "type": "fa2",
+      "address": "KT1SFJpp5pRDpBPCbqGv529HrTZ6Dck3ZVf3"
+    },
+    {
+      "symbol": "EVIL",
+      "tokenAddress": "KT1Ava7Qm338ZJj83P1ZhNbGkaRZM8N1FsPD",
+      "tokenId": 0,
+      "decimals": 4,
+      "description": "The Evil entered our Tezos blockchain but couldn't maintain its corporal form and dissolved into 666 evil coins. \nHolding $EVIL will grant you dark powers, but beware as you could drown into madness.",
+      "name": "Evil Coin",
+      "shouldPreferSymbol": "true",
+      "thumbnailUri": "https://media.discordapp.net/attachments/688132602086948868/851575721615818752/coin.png",
+      "factoryIndex": 12,
+      "type": "fa2",
+      "address": "KT1Ap7YfZAstC8sbnE6Kwm9iywt13NjwRrNB"
+    },
+    {
+      "symbol": "SPI",
+      "tokenAddress": "KT1CS2xKGHNPTauSh5Re4qE3N9PCfG5u4dPx",
+      "tokenId": 0,
+      "decimals": 6,
+      "name": "Spice Token",
+      "thumbnailUri": "ipfs://QmYQdCWFh26rPoaYNLFBa3mQg3EyXyfgJ5ktG4YrkbD4AZ",
+      "factoryIndex": 13,
+      "type": "fa2",
+      "address": "KT1Eg2QesN1tCzScTrvoeKm5W67GgjV32McR"
+    },
+    {
+      "symbol": "MYH",
+      "tokenAddress": "KT1LmNXekg1sJTGiLdf8p5i4FyZoqk1XFB8b",
+      "tokenId": 0,
+      "decimals": 8,
+      "description": "Financial education coin for the people",
+      "name": "MoneyHero",
+      "shouldPreferSymbol": "true",
+      "thumbnailUri": "https://drive.google.com/file/d/11rVImQ35Oc6vRWKbf6Z9s3fh61cCSg3-/view",
+      "factoryIndex": 14,
+      "type": "fa2",
+      "address": "KT1TDemRmFqRviTnD2poa2N6AdtAuVScsK98"
+    },
+    {
+      "symbol": "MYH",
+      "tokenAddress": "KT1BB1uMwVvJ1M3vVHXWALs1RWdgTp1rnXTR",
+      "tokenId": 0,
+      "decimals": 8,
+      "description": "Financial education tokens for everyone. Hold MYH and get free access to courses, coachings, summits and the Moneyheroes community.",
+      "name": "MoneyHero",
+      "shouldPreferSymbol": "true",
+      "thumbnailUri": "https://geldhelden.org/myh.png",
+      "factoryIndex": 15,
+      "type": "fa2",
+      "address": "KT1Ed11bNukFdYSc3qQFZ2HGYdF13XU6WZ4A"
+    },
+    {
+      "symbol": "TED",
+      "tokenAddress": "KT1AjD9hAkXifoYtECD7wuP5ZCz1AjfjQTXJ",
+      "tokenId": 0,
+      "decimals": 2,
+      "description": "This coin has no value and does nothing but exist much like many other stores of value.",
+      "name": "Teddy",
+      "shouldPreferSymbol": "true",
+      "thumbnailUri": "https://mryamz.github.io/images/element_pics/Teddy%20Coin.png",
+      "factoryIndex": 16,
+      "type": "fa2",
+      "address": "KT1PmmaD34R8nK1d1ra8nUZfBFcTWGLmAjgG"
+    },
+    {
+      "symbol": "SHIHTZU",
+      "tokenAddress": "KT1R52Gk7LzWvyV41oP9dRUbboHs4yVTXAZT",
+      "tokenId": 0,
+      "decimals": 2,
+      "name": "Shih Tzu",
+      "thumbnailUri": "https://i.imgur.com/xDRnby1.png",
+      "factoryIndex": 17,
+      "type": "fa2",
+      "address": "KT19NB2rNZ8zHULS4cGM4NgjqJJuANVVX8xq"
+    },
+    {
+      "symbol": "ICE",
+      "tokenAddress": "KT1QVU1DYYx5tSf1QvptdhVHvKo2YSmR3qfp",
+      "tokenId": 0,
+      "decimals": 3,
+      "description": "Stay up for days, then crash down in a instante. Try to be the dealer and not the user. ",
+      "name": "Meth",
+      "shouldPreferSymbol": "true",
+      "thumbnailUri": "http://clipart-library.com/clipart/1930063.htm",
+      "factoryIndex": 18,
+      "type": "fa2",
+      "address": "KT1XbbzHsLaKJaU3srEyPXt2JhvGMRviG8g6"
+    },
+    {
+      "symbol": "fDAO",
+      "tokenAddress": "KT1KPoyzkj82Sbnafm6pfesZKEhyCpXwQfMc",
+      "tokenId": 0,
+      "decimals": 6,
+      "name": "fDAO",
+      "factoryIndex": 19,
+      "type": "fa2",
+      "address": "KT1BweorZK1CJDEu76SyKcxfzeiAxip73Kot"
+    },
+    {
+      "symbol": "UPMA",
+      "tokenAddress": "KT1RACesjuf2ApJBjW6HnsV3w4MTuCcroUup",
+      "tokenId": 0,
+      "decimals": 4,
+      "description": "Upma Token",
+      "name": "UPMA",
+      "shouldPreferSymbol": "true",
+      "thumbnailUri": "https://www.dropbox.com/s/futkhsgqalkui8j/Upma_2.png?dl=1",
+      "factoryIndex": 20,
+      "type": "fa2",
+      "address": "KT1FcxZ14sMs1ejM1VdvYeBzPKyru7cthw2Q"
+    },
+    {
+      "symbol": "crDAO",
+      "tokenAddress": "KT1XPFjZqCULSnqfKaaYy8hJjeY63UNSGwXg",
+      "tokenId": 0,
+      "decimals": 8,
+      "description": "Crunchy.Network DAO Token",
+      "name": "Crunchy DAO",
+      "shouldPreferSymbol": "true",
+      "thumbnailUri": "ipfs://bafybeigulbzm5x72qtmckxqvd3ksk6q3vlklxjgpnvvnbcofgdp6qwu43u",
+      "factoryIndex": 21,
+      "type": "fa2",
+      "address": "KT1FHiJmJUgZMPtv5F8M4ZEa6cb1D9Lf758T"
+    },
+    {
+      "symbol": "WEED",
+      "tokenAddress": "KT1VX7wfHgmXPgemsagY8UxNSPv5fKxvUSYK",
+      "tokenId": 0,
+      "decimals": 8,
+      "description": "Come and get your Tezos WEED toke(n) - Puff Puff Pass!",
+      "name": "WEED",
+      "shouldPreferSymbol": "true",
+      "thumbnailUri": "https://i.ibb.co/YjBMj7b/WEEDTOKENIMG.jpg",
+      "factoryIndex": 22,
+      "type": "fa2",
+      "address": "KT1VEKgCCYCudjfvLZaEh4havFiJMmxMgNdX"
+    },
+    {
+      "symbol": "PUMP",
+      "tokenAddress": "KT1Qryr8PrH3YGcDbbddwvp8X1acQ5v2zKhA",
+      "tokenId": 0,
+      "decimals": 8,
+      "description": "PUMP THIS SHITCOIN",
+      "name": "PUMP!",
+      "shouldPreferSymbol": "true",
+      "thumbnailUri": "https://i.imgur.com/EzqNw1n.png",
+      "factoryIndex": 23,
+      "type": "fa2",
+      "address": "KT1Rj4wyhTBrCJGXJvR8FxXgt5TpuqHEexAW"
+    },
+    {
+      "symbol": "tDAO",
+      "tokenAddress": "KT1SEgjiCQYhY4frASUNEsYVTdyUbvZbrmZr",
+      "tokenId": 0,
+      "decimals": 5,
+      "description": "Used for governing the tezos layer 1 messenger",
+      "name": "Teddy DAO",
+      "thumbnailUri": "https://mryamz.github.io/images/element_pics/Teddy%20Coin.png",
+      "factoryIndex": 24,
+      "type": "fa2",
+      "address": "KT1Q79J9guKTbepaNvDy4hH9VGziXh2RPLiS"
+    },
+    {
+      "symbol": "QNL",
+      "tokenAddress": "KT1A45UMZVj4uW4BNKFc95Z9FTN6GXR1jiMf",
+      "tokenId": 0,
+      "decimals": 2,
+      "description": "Quiniela is the sports betting token promoted by the Spanish community of Tezos, Tezos Spanish.\n\nQuiniela es el token de apuestas deportivas promovido por la comunidad espa�ola/hispana de Tezos, Tezos Spanish.",
+      "name": "QUINIELA",
+      "shouldPreferSymbol": "true",
+      "thumbnailUri": "https://ibb.co/k0KM7pb",
+      "factoryIndex": 25,
+      "type": "fa2",
+      "address": "KT1NdkX8kzQ3QfG3bDe9TmkSVCB6zDWmi27N"
+    },
+    {
+      "symbol": "H2O",
+      "tokenAddress": "KT1NiwXj3cMPcHHgJbA2Aeuvjx1FE6THV7d5",
+      "tokenId": 0,
+      "decimals": 6,
+      "description": "Water a key to all living things on Earth. Keep your wallet hydrated. I would like to add utility in the future, but for now H2O is just another token. ",
+      "name": "Aqua ",
+      "shouldPreferSymbol": "true",
+      "thumbnailUri": "https://ibb.co/w6MFxz2",
+      "factoryIndex": 26,
+      "type": "fa2",
+      "address": "KT1NeBbCRpN9hYzToVMFMVVdDoqGHXDK7sNX"
+    },
+    {
+      "symbol": "KET",
+      "tokenAddress": "KT1FS8SLepEpUaMECyVR1wwkpHYRrYhXBKsa",
+      "tokenId": 0,
+      "decimals": 3,
+      "description": "My first token, will be working on actually finding/creating utility for this token. Deployed using deployer.sebuh.net ",
+      "name": "KitKat Token",
+      "shouldPreferSymbol": "true",
+      "thumbnailUri": "https://i.imgur.com/57bZtKW.jpg",
+      "factoryIndex": 27,
+      "type": "fa2",
+      "address": "KT1TJYvsyiaCKn9rTccn8JDSfxDWJttR5bgp"
+    },
+    {
+      "symbol": "ASADA",
+      "tokenAddress": "KT1TCPf4DjgsseHj8ixRnCBgToqZbdFHQtPA",
+      "tokenId": 0,
+      "decimals": 6,
+      "description": "When great-great-great-great-great-great grandma Rosa started the first Dos Esposas Restaurante (originally called \"Las Esposas del Yum Kaax Restaurante\") over 130 years ago, she wanted to make the best food anyone had ever tasted.\n\nHer first famous recipe was a carne asada that made your mouth drool just from the aromas.\n\nGreat-great-great-great-great-great Grandma Rosa's Carne Asada Recipe:\n\n  - 1 1/2 pounds of flank steak\n  - 1/3 cup olive oil\n  - 1/4 cup soy sauce\n  - 1/2 cup of fresh chopped cilantro leaves\n  - juice of 1 lime\n  - juice of 1 orange\n  - 4 cloves garlic, minced\n  - 1 jalapeno, seeded and diced\n  - 1 teaspoon ground cumin\n  - salt & freshly ground black pepper\n\nDon't take our word for it. It's a specialty that people come all over the world to taste, hoard, and savor. \n\n�Delicioso!",
+      "name": "Carne Asada",
+      "shouldPreferSymbol": "true",
+      "thumbnailUri": "https://ipfs.io/ipfs/QmTeDaUsBFujKVEdxNu8iCEnrkYeuoEa6yFXkAmLj2NhtV",
+      "factoryIndex": 28,
+      "type": "fa2",
+      "address": "KT1GesE2kX6QcPF5bxyvGHW7fhDGYU6aKi7w"
+    },
+    {
+      "symbol": "CERVEZA",
+      "tokenAddress": "KT1AJkR5vBbEHUbSEEGHaFMQm1puTBm5an5T",
+      "tokenId": 0,
+      "decimals": 6,
+      "description": "You're outside all day long mowing the lawn, chopping up firewood, doing whatever it is you do out in the sun all day... you bet your ass you have a cooler nearby with some ice cold light beer. You can drink it all day long, you might as well call it water.",
+      "name": "Light Beer",
+      "shouldPreferSymbol": "true",
+      "thumbnailUri": "https://ipfs.io/ipfs/QmXxGpokiUaUrCiv6jBoMLikLSNTxw3yDsHEKVPhdXrM6J",
+      "factoryIndex": 29,
+      "type": "fa2",
+      "address": "KT1XqWG7VS4MkEuCpJNyobGQkN8L3uvf5gUB"
+    },
+    {
+      "symbol": "KET",
+      "tokenAddress": "KT1E51BdAf8bQYreGPeGbHH3HQ5DXvVBsEB3",
+      "tokenId": 0,
+      "decimals": 3,
+      "description": "Created as test for personal learning in fa2 and defi contracts. Any interaction appreciated, i will do my best to make this a successful token. \n ",
+      "name": "KetCat Token",
+      "shouldPreferSymbol": "true",
+      "thumbnailUri": "https://i.imgur.com/57bZtKW.jpg",
+      "factoryIndex": 30,
+      "type": "fa2",
+      "address": "KT19qvQUYmcpWTN6oNnAwgfrHYVKoGgyoQZ5"
+    },
+    {
+      "symbol": "RICE",
+      "tokenAddress": "KT1Wa2ncR8GbeQrW6Dbtpc8uTrK7q5CH4F2Q",
+      "tokenId": 0,
+      "decimals": 2,
+      "description": "Enchi-way... you can't just eat one, you need to put down two. You are my kind of peep.",
+      "name": "Rice",
+      "shouldPreferSymbol": "true",
+      "thumbnailUri": "https://uxwing.com/wp-content/themes/uxwing/download/20-food-and-drinks/rice.png",
+      "factoryIndex": 31,
+      "type": "fa2",
+      "address": "KT19Koy81QJLtghfSsDMLTmwj9myESNTbUaS"
+    },
+    {
+      "symbol": "BOLLA",
+      "tokenAddress": "KT196ZiPqPTZDsWpWvuhgZUrYK5x8WxYz3wb",
+      "tokenId": 0,
+      "decimals": 6,
+      "description": "No taco or burrito is complete without some chopped up onions. For you gringos that is what cebolla is. Chop chop homey.",
+      "name": "Cebolla",
+      "shouldPreferSymbol": "true",
+      "thumbnailUri": "https://static.thenounproject.com/png/26154-200.png",
+      "factoryIndex": 32,
+      "type": "fa2",
+      "address": "KT1Qt8bLFWbTiJ7DChQooBmab1MMHTx9uo8U"
+    },
+    {
+      "symbol": "HERA",
+      "tokenAddress": "KT1JXxK3bd39ayLiiBdKm2cdReYnVSG3bkzK",
+      "tokenId": 0,
+      "decimals": 3,
+      "name": "Hera Network Token",
+      "shouldPreferSymbol": "true",
+      "thumbnailUri": "https://heranetwork.co/icons/ic_coin.svg",
+      "factoryIndex": 33,
+      "type": "fa2",
+      "address": "KT1DgbAE84xno2wdaEgeYpZkFZMs5fskAgP7"
     }
   ],
-  "block": "BM5uUHs9kQxvFEs9zUAXbCdTB5b4dtv8LCTB4rGnmkA4UZQFt2Q",
-  "timestamp": "2021-05-30T22:37:46Z"
+  "block": "BLXP8TzXfrMKzptxNoHio6d8p7FaCE83mTURGdm1rtU6tLANfks",
+  "timestamp": "2021-07-01T23:17:18Z",
+  "found": "2021-07-01T23:17:50.945Z"
 }
