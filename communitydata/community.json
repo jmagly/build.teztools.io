@@ -555,7 +555,16 @@
 			"symbol": "XTZSilver",
 			"tokenAddress": "KT1EqhKGcu9nztF5p9qa4c3cYVqVewQrJpi2",
 			"thumbnailUri": "https://build.teztools.io/token-logo/oropocket.jpg"
-		}
+		},
+	        {
+			"symbol": "BEEF",
+			"tokenAddress": "KT1M2Ws52krJrwJi1ZFsmVfazBiafWYKZTvd",
+			"tokenId": 0,
+			"websiteLink": "https://dos-esposas.restaurant/",
+			"twitterLink": "https://twitter.com/DosEsposas",
+			"telegramLink": "https://t.me/dos_esposas_chat",
+			"discordLink": "https://discord.gg/8XrPs72NKb"
+	        }
 		
 	]
 }
