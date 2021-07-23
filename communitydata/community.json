@@ -557,6 +557,24 @@
 			"thumbnailUri": "https://build.teztools.io/token-logo/oropocket.jpg"
 		},
 	        {
+			"symbol": "AVO",
+			"tokenAddress": "KT18k2r2n87iRLC38k8ogoZL2uLx2WrvGA1v",
+			"tokenId": 0,
+			"websiteLink": "https://dos-esposas.restaurant/",
+			"twitterLink": "https://twitter.com/DosEsposas",
+			"telegramLink": "https://t.me/dos_esposas_chat",
+			"discordLink": "https://discord.gg/8XrPs72NKb"
+	        },
+	        {
+			"symbol": "ASADA",
+			"tokenAddress": "KT1TCPf4DjgsseHj8ixRnCBgToqZbdFHQtPA",
+			"tokenId": 0,
+			"websiteLink": "https://dos-esposas.restaurant/",
+			"twitterLink": "https://twitter.com/DosEsposas",
+			"telegramLink": "https://t.me/dos_esposas_chat",
+			"discordLink": "https://discord.gg/8XrPs72NKb"
+	        },
+	        {
 			"symbol": "BEEF",
 			"tokenAddress": "KT1M2Ws52krJrwJi1ZFsmVfazBiafWYKZTvd",
 			"tokenId": 0,
@@ -564,7 +582,15 @@
 			"twitterLink": "https://twitter.com/DosEsposas",
 			"telegramLink": "https://t.me/dos_esposas_chat",
 			"discordLink": "https://discord.gg/8XrPs72NKb"
-	        }
-		
+	        },
+	        {
+			"symbol": "BOLLA",
+			"tokenAddress": "KT196ZiPqPTZDsWpWvuhgZUrYK5x8WxYz3wb",
+			"tokenId": 0,
+			"websiteLink": "https://dos-esposas.restaurant/",
+			"twitterLink": "https://twitter.com/DosEsposas",
+			"telegramLink": "https://t.me/dos_esposas_chat",
+			"discordLink": "https://discord.gg/8XrPs72NKb"
+	        }		
 	]
 }
