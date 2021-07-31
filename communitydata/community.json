@@ -220,6 +220,14 @@
 
 		},
 		{
+			"symbol": "teDAO",
+			"tokenAddress": "KT1SEgjiCQYhY4frASUNEsYVTdyUbvZbrmZr",
+			"tokenId": 0,
+			"tags": "NFT",
+			"websiteLink": "https://etmitte.io/",
+			"telegramLink": "https://t.me/Teddy_DAO"
+		},
+		{
 			"symbol": "wLINK",
 			"tokenAddress": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
 			"tokenId": 10,
@@ -591,6 +599,14 @@
 			"twitterLink": "https://twitter.com/DosEsposas",
 			"telegramLink": "https://t.me/dos_esposas_chat",
 			"discordLink": "https://discord.gg/8XrPs72NKb"
-	        }		
+	        },
+	        {
+			"symbol": "FKB",
+			"tokenAddress": "KT1FftDwLS6F7RVrpQ8nTmScCfNFaAyWTSdc",
+			"tokenId": 0,
+			"websiteLink": "https://dreamcar.fun",
+			"twitterLink": "https://twitter.com/DreamCa79497212",
+			"telegramLink": "https://t.me/fuuuuuuuuckbooooooooy"
+	        }			
 	]
 }
