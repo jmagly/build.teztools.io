@@ -58,7 +58,7 @@ ex: https://api.teztools.io/v1/blocked
 
 # Token Specific
 
-## <TOKENADDRESS>_<TOKENID> or <TOKENADDRESS>?
+## TOKENADDRESS_TOKENID or TOKENADDRESS?
 
 Token specific endpoints should reffered to using the token address (omit the underscore) for FA1.2 tokens and token address with token ID for FA2 tokens. 
 
@@ -72,19 +72,19 @@ https://api.teztools.io/v1/KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ_11/price
 
 To determine if a token is an FA1.2 or an FA2 you can look for the existance of the tokenId field or check the type field which indicates the token type. 
 
-## /v1/<TOKENADDRESS>_<TOKENID>/price
+## /v1/TOKENADDRESS_TOKENID/price
 individual token price
 
 uses: single token price monitor
 ex: https://api.teztools.io/v1/KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ_11/price
 
-## /v1/<TOKENADDRESS>_<TOKENID>/contract
+## /v1/TOKENADDRESS_TOKENID/contract
 individual token contract
 
 uses: single token metadata  
 ex: https://api.teztools.io/v1/KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ_11/contract
 
-## /v1/<TOKENADDRESS>_<TOKENID>/price-history
+## /v1/TOKENADDRESS>_TOKENID/price-history
 token price history (beta)
 
 uses: single token metadata  
