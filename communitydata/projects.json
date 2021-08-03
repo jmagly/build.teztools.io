@@ -7,6 +7,10 @@
       "twitterUrl": "https://twitter.com/DosEsposas",
       "summary": "The best restaurant in all the cryptoverse.",
       "description": "Some longer multi-paragraph description will go here.",
+      "wallets": [
+        { "type": "primary", "address": "tz1Vb19E2Hh4JcerACeF1AJPkPSL63d5KAcF", "name": "Dos Esposas", "description": "Primary wallet used by the restaurant" },
+        { "type": "authoritative", "address": "tz1hYc8FKJSztPJb8a9b4V4yQBGtk9t1FkEj", "name": "Zanoryt", "description": "Original creator of some tokens" },
+      ],
       "contracts": [
         "KT18k2r2n87iRLC38k8ogoZL2uLx2WrvGA1v",
         "KT1M2Ws52krJrwJi1ZFsmVfazBiafWYKZTvd",
