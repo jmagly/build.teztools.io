@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "name": "Dos Esposas Restaurante",
+      "logoUrl": "https://pbs.twimg.com/profile_banners/1387902108356124675/1619750776/1500x500",
+      "websiteUrl": "https://dos-esposas.restaurant",
+      "twitterUrl": "https://twitter.com/DosEsposas",
+      "summary": "The best restaurant in all the cryptoverse.",
+      "description": "Some longer multi-paragraph description will go here.",
+      "contracts": [
+        "KT18k2r2n87iRLC38k8ogoZL2uLx2WrvGA1v",
+        "KT1M2Ws52krJrwJi1ZFsmVfazBiafWYKZTvd",
+        "KT1TCPf4DjgsseHj8ixRnCBgToqZbdFHQtPA",
+        "KT196ZiPqPTZDsWpWvuhgZUrYK5x8WxYz3wb",
+        "KT1VSfiXojPodWiZtSfaTooiKKsPAafJdJGa",
+        "KT1GgGFpsdq7rz5wopLm4z9ySQeqagBwLYgR",
+        "KT19g5KrxZdcyYmFAmWijywENFdjcFAi74eM",
+        "KT1M9eZ5hzQb93bo3x6csbnxKc6EkpEwZbkQ",
+        "KT19oLbcu7TMGA6s3QuGpeu4cCZknhVhuATY",
+        "KT1Wa2ncR8GbeQrW6Dbtpc8uTrK7q5CH4F2Q",
+        "KT1SiFqDqeFcUi5vQVSvuxB2g4xz7WLBrDek",
+        "KT1B6p7LCM4bSFg5ahRQPzp6nHh6raKMsubk",
+        "KT1F5M35m8Tn2nbJGn7DwheRXxhyvm5KUho2",
+        "KT1FPA3aJ8dTh3ANsaRfVcXSLeWG9mi4LUkv",
+        "KT1BdZj4B2XGMbpZJQzPo76YcpSiswsQpRpt",
+        "KT1K7vvj7bQAY7YqCRnvrddoSaLp9tbJLn8Y",
+        "KT1DgP4K39T1Wqqax9YZuwnkstnY1gNtqcri",
+        "KT1NrsxNC6xoj9oKrtDSJAvptYe6VvmCTueP",
+        "KT1GWHp5PSYLpXuiKAcdtWFuUX84cu1uY9Nk",
+        "KT1MdWp5To6hUuUbkamfKn1RowR6QcvqTd6u",
+        "KT1NxnATgx7386au1KfxU9LcRYJbWup1cEqn",
+        "KT1KDAsA4TmxLBaczVXmjjoqZXM2UDBo2xja",
+        "KT1Soa1U1fYRQEgg9No3Xvqxuv46kUZFFdJ6",
+        "KT1Wxi4QfsaLqa82wprsWrqALHLQtPTpaabv",
+        "KT1RdLrFcXrwbTX9vaYcbUohTTXpe1Eco2sq",
+        "KT1QHcRL3FZRpQruFkb1GBYwfqoPXTFGipRH",
+        "KT1GjDJH1CASA8zRGgj81sTfEU9K2T494MMK",
+        "KT1SybeY3QZ3kX4PS5ZXhxyv2dZWghTFuCdu",
+        "KT1AJkR5vBbEHUbSEEGHaFMQm1puTBm5an5T"
+      ],
+      "tags": [ "defi", "game" ],
+    }
+  ]
+}
