@@ -16,7 +16,7 @@ $(document).ready(function() {
       };
   
       const getData = async () => {
-        fetch('https://api.teztools.io/token/prices')
+        fetch('https://api.teztools.io/v1/prices')
         .then(function (response) {
           return response.json();
         })
