@@ -595,6 +595,16 @@
 			"thumbnailUri": "https://ipfs.io/ipfs/QmSqiqyBkLRf224aXjwAPGF96UPmsA8Sad5cybpSM8nCpo"
 	        },
 	        {
+			"symbol": "BELL",
+			"tokenAddress": "KT1SiFqDqeFcUi5vQVSvuxB2g4xz7WLBrDek",
+			"tokenId": 0,
+			"websiteLink": "https://dos-esposas.restaurant/",
+			"twitterLink": "https://twitter.com/DosEsposas",
+			"telegramLink": "https://t.me/dos_esposas_chat",
+			"discordLink": "https://discord.gg/8XrPs72NKb",
+			"thumbnailUri": "https://ipfs.io/ipfs/QmQtGtzH7A1YAb6kpKDz9i1pSLyuMDGz9WwJw93ao5R8Bt"
+	        },
+	        {
 			"symbol": "BOLLA",
 			"tokenAddress": "KT196ZiPqPTZDsWpWvuhgZUrYK5x8WxYz3wb",
 			"tokenId": 0,
@@ -614,7 +624,27 @@
 			"discordLink": "https://discord.gg/8XrPs72NKb",
 			"thumbnailUri": "https://ipfs.io/ipfs/QmXxGpokiUaUrCiv6jBoMLikLSNTxw3yDsHEKVPhdXrM6J"
 		},
-	        {
+		{
+			"symbol": "CORN",
+			"tokenAddress": "KT1VSfiXojPodWiZtSfaTooiKKsPAafJdJGa",
+			"tokenId": 0,
+			"websiteLink": "https://dos-esposas.restaurant/",
+			"twitterLink": "https://twitter.com/DosEsposas",
+			"telegramLink": "https://t.me/dos_esposas_chat",
+			"discordLink": "https://discord.gg/8XrPs72NKb",
+			"thumbnailUri": "https://ipfs.io/ipfs/QmNMmmSGv8nDhNQoqAYxoS15UibVEgtwSBdzbcz4gorSmr"
+		},
+		{
+			"symbol": "GUAC",
+			"tokenAddress": "KT19g5KrxZdcyYmFAmWijywENFdjcFAi74eM",
+			"tokenId": 0,
+			"websiteLink": "https://dos-esposas.restaurant/",
+			"twitterLink": "https://twitter.com/DosEsposas",
+			"telegramLink": "https://t.me/dos_esposas_chat",
+			"discordLink": "https://discord.gg/8XrPs72NKb",
+			"thumbnailUri": "https://ipfs.io/ipfs/QmZnaxXMeQsQqHeibYakACGnoSzxsMLmcTFiaFFYo7T4eS"
+		},
+		{
 			"symbol": "RICE",
 			"tokenAddress": "KT1Wa2ncR8GbeQrW6Dbtpc8uTrK7q5CH4F2Q",
 			"tokenId": 0,
@@ -623,6 +653,26 @@
 			"telegramLink": "https://t.me/dos_esposas_chat",
 			"discordLink": "https://discord.gg/8XrPs72NKb",
 			"thumbnailUri": "https://ipfs.io/ipfs/QmNUmoRJPJhZWMaFy1XB6BmQQpZcfrsWbjD1WQJbZgNb9t"
+		},
+		{
+			"symbol": "TILLA",
+			"tokenAddress": "KT1K7vvj7bQAY7YqCRnvrddoSaLp9tbJLn8Y",
+			"tokenId": 0,
+			"websiteLink": "https://dos-esposas.restaurant/",
+			"twitterLink": "https://twitter.com/DosEsposas",
+			"telegramLink": "https://t.me/dos_esposas_chat",
+			"discordLink": "https://discord.gg/8XrPs72NKb",
+			"thumbnailUri": "https://ipfs.io/ipfs/Qmc86R2C5sU5TiZCASScNBndHPKuKJ66BB696h2Va8Fzqa"
+		},
+		{
+			"symbol": "WHEAT",
+			"tokenAddress": "KT1DgP4K39T1Wqqax9YZuwnkstnY1gNtqcri",
+			"tokenId": 0,
+			"websiteLink": "https://dos-esposas.restaurant/",
+			"twitterLink": "https://twitter.com/DosEsposas",
+			"telegramLink": "https://t.me/dos_esposas_chat",
+			"discordLink": "https://discord.gg/8XrPs72NKb",
+			"thumbnailUri": "https://ipfs.io/ipfs/QmbkBaScs4qoKhhS4UAL4mKHjDuAi3PGoJ8k5RNgCcTu9J"
 		},
 	        {
 			"symbol": "FKB",
