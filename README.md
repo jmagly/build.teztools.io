@@ -90,3 +90,14 @@ token price history (beta)
 uses: single token metadata  
 ex: https://api.teztools.io/v1/KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ_11/price-history
 
+## /v1/TOKENADDRESS>_TOKENID/pools/<POOLADDRESS>/ledger
+pool specific ledger
+  
+## /v1/TOKENADDRESS>_TOKENID/pools/<POOLADDRESS>/aggregate_daily
+pool specific aggregate with moving averages daily scope
+
+## /v1/TOKENADDRESS>_TOKENID/pools/<POOLADDRESS>/aggregate_weekly
+pool specific aggregate with moving averages weekly scope
+  
+## /v1/TOKENADDRESS>_TOKENID/pools/<POOLADDRESS>/aggregate_monthly
+pool specific aggregate with moving averages monthly scope
